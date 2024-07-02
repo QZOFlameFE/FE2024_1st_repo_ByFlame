@@ -1,5 +1,5 @@
 # FE2024_1st_repo_ByFlame
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/QZO_Logo.jpg?raw=true)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo.jpg?raw=true)
 Future Engineers 2024, QYZYLORDA Flame team  
 `3D_models` contains 3D models of the project  
 `Team_photos` contains team photos and creating process photos  
