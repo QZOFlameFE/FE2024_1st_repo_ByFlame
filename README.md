@@ -51279,7 +51279,5 @@ endsolid
 # <hr/>
 # Performance videos
 # <hr/>
-# GitHub utilization
-# <hr/>
 # Engineering Factor
 # <hr/>
