@@ -13,7 +13,9 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Mobility Management  <hr/> 
 # Power and Sense Management  <hr/> 
 # Obstacle Management <hr/> 
-# Pictures  <hr/> 
+# Pictures  
+# Robot photos 
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Back.jpg?raw=true)  <hr/> 
 # Performance #videos <hr/> 
 # GitHub utilization <hr/> 
 # Engineering Factor <hr/> 
