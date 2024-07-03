@@ -51262,3 +51262,18 @@ solid
    endfacet
 endsolid
 ```
+# <hr/>
+# Power and Sense Management
+# <hr/>
+# Obstacle Management
+# <hr/>
+# Pictures
+## Robot Photos
+## Team Photos
+# <hr/>
+# Performance videos
+# <hr/>
+# GitHub utilization
+# <hr/>
+# Engineering Factor
+# <hr/>
