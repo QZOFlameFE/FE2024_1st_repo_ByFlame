@@ -9,7 +9,8 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 `videos` contains videos that demonstrates how robot works and runs, explanation of its basic principles 
 `ideas` 
 > [!NOTE]
-> dadasdadas <hr/> 
+> dadasdadas
+# <hr/> 
 # Mobility Management 
 ## Building Instructions
 ## 3D models
