@@ -14,7 +14,7 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Power and Sense Management  <hr/> 
 # Obstacle Management <hr/> 
 # Pictures  
-# Robot photos 
+## Robot photos 
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_frontSide.jpg?raw=true)
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_RightSide.jpg?raw=true)
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Back.jpg?raw=true) 
