@@ -51278,7 +51278,7 @@ endsolid
 ## Team Photos
 # <hr/>
 # Performance videos
-[<img src="https://www.youtube.com/watch?v=abwXTLdPtoA" width="50%">])
+https://www.youtube.com/watch?v=abwXTLdPtoA
 # <hr/>
 # Engineering Factor
 # <hr/>
