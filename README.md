@@ -9,6 +9,7 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 `ideas` 
 # Contents <hr/> 
 > [!NOTE]
+> dadasdadas
 # Mobility Management
 # Power and Sense Management
 # Obstacle Management
