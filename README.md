@@ -26,7 +26,8 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Leftside.jpg?raw=true) 
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Topside.jpg?raw=true) 
 # ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_downside.jpg?raw=true) 
-## Team Photos # <hr/> 
+## Team Photos 
+# <hr/> 
 # Performance videos <hr/> 
 # GitHub utilization <hr/> 
 # Engineering Factor <hr/> 
