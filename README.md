@@ -14,7 +14,8 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Mobility Management 
 ## Building Instructions
 ## 3D models
-### Pixy Camera Case:  <hr/> 
+### Pixy Camera Case:  
+# <hr/> 
 
 # Power and Sense Management  <hr/> 
 # Obstacle Management <hr/> 
