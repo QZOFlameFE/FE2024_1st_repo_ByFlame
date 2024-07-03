@@ -14,7 +14,7 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Mobility Management 
 ## Building Instructions
 ## 3D models
-### Pixy Camera Case:  
+### Pixy Camera
 ```stl
 solid 
    facet normal -1.000000e+00 0.000000e+00 0.000000e+00
