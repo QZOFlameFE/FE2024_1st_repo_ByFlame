@@ -15,7 +15,12 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Obstacle Management <hr/> 
 # Pictures  
 # Robot photos 
-# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Back.jpg?raw=true)  <hr/> 
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_frontside.jpg?raw=true)
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_RightSide.jpg?raw=true)
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Back.jpg?raw=true) 
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Leftside.jpg?raw=true) 
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_Topside.jpg?raw=true) 
+# ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FE_Flame_Vehicle_downside.jpg?raw=true) <hr/> 
 # Performance #videos <hr/> 
 # GitHub utilization <hr/> 
 # Engineering Factor <hr/> 
