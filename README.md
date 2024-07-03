@@ -51278,7 +51278,7 @@ endsolid
 ## Team Photos
 # <hr/>
 # Performance videos
-[![Watch the video](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/videos/Open_Challenge2024.mp4?raw=true)
+[![Watch the video]([https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/videos/Open_Challenge2024.mp4](https://www.youtube.com/watch?v=abwXTLdPtoA)?raw=true)
 # <hr/>
 # Engineering Factor
 # <hr/>
