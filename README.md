@@ -8,6 +8,7 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 `videos` contains videos that demonstrates how robot works and runs, explanation of its basic principles 
 `ideas` 
 # Contents
+<hr/>
 # Mobility Management
 # Power and Sense Management
 # Obstacle Management
