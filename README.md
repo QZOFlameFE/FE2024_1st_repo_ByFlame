@@ -11,6 +11,10 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 > [!NOTE]
 > dadasdadas
 # Mobility Management  <hr/> 
+3D models
+Pixy Camera Case: 
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/3D_models/PIXY_case1.stl?raw=true)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/3D_models/PIXY_case2.stl?raw=true)
 # Power and Sense Management  <hr/> 
 # Obstacle Management <hr/> 
 # Pictures  
