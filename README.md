@@ -10,10 +10,10 @@ Future Engineers 2024, "QYZYLORDA Flame" team
 # Contents <hr/> 
 > [!NOTE]
 > dadasdadas
-# Mobility Management
-# Power and Sense Management
-# Obstacle Management
-# Pictures
-# Performance #videos
-# GitHub utilization
-# Engineering Factor
+# Mobility Management  <hr/> 
+# Power and Sense Management  <hr/> 
+# Obstacle Management <hr/> 
+# Pictures  <hr/> 
+# Performance #videos <hr/> 
+# GitHub utilization <hr/> 
+# Engineering Factor <hr/> 
