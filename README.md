@@ -1,4 +1,4 @@
-# FE2024_1st_repo_ByFlame
+# FE2024_Flame
 Future Engineers 2024, "QYZYLORDA Flame" team
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png?raw=true)  
 # Contents <hr/> 
