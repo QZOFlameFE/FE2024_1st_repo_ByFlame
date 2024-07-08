@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;"
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;">
-<h1 align = center style="background: linear-gradient(to left, rgb(132, 27, 202), rgb(231, 44, 44), rgb(240, 213, 94);"> <b> Future Engineers 2024 </h1>
+<h1 align = center style="color: linear-gradient(to left, rgb(132, 27, 202), rgb(231, 44, 44), rgb(240, 213, 94);"> <b> Future Engineers 2024 </h1>
 <h2 align = center> Team name: QYZYLORDA Flame </h2>
 <h2 align = center> Team members: Sadu Yernur, Appaz Aldiyar </h2>
 <h2 align = center> email: qzo.flame.fe2024@gmail.com </h2>
