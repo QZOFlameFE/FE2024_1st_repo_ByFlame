@@ -5,7 +5,7 @@
 <h2 align = center> Team name: QYZYLORDA Flame </h2>
 <h2 align = center> Team members: Sadu Yernur, Appaz Aldiyar </h2>
 <h2 align = center> email: qzo.flame.fe2024@gmail.com </h2>
-<img src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png?raw=true> 
+<img align = center src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png> 
 </div>
 
 # Contents 
