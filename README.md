@@ -51437,6 +51437,7 @@ endsolid
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/down_side.png?raw=true)
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/Front_right_side.png?raw=true)
 ## Team Photos
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/Official_team_photo.jpeg?raw=true)
 # <hr/>
 # Performance videos
 https://www.youtube.com/watch?v=abwXTLdPtoA
