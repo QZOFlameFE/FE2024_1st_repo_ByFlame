@@ -13,6 +13,7 @@
 # <hr/>
 # Mobility Management
 ## Building Instructions
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/Flame_Building_Instructions.pdf?raw=true) 
 ## 3D models
 ### Pixy Camera
 ```stl
