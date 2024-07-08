@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
-<h1> Future Engineers 2024 </h1>
+<h1 align = center> Future Engineers 2024 </h1>
 <h2> Team name: QYZYLORDA Flame </h2>
 <h2> Team members: Sadu Yernur, Appaz Aldiyar </h2>
 <h2> email: qzo.flame.fe2024@gmail.com </h2>
