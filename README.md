@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; background: linear-gradient(to left, rgb(132, 27, 202), rgb(231, 44, 44), rgb(240, 213, 94));">
 <h1 align = center> Future Engineers 2024 </h1>
 <h2 align = center> Team name: QYZYLORDA Flame </h2>
 <h2 align = center> Team members: Sadu Yernur, Appaz Aldiyar </h2>
