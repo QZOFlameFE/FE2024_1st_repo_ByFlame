@@ -1,7 +1,8 @@
-# Future Engineers 2024 <br/>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center"># Future Engineers 2024 <br/>
 ## Team name: QYZYLORDA Flame <br/>
 ## Team members: Sadu Yernur, Appaz Aldiyar <br/>
 ## email: qzo.flame.fe2024@gmail.com <br/>
+</div>
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png?raw=true) 
 # Contents 
 `3D_models` contains 3D models of the project <br/>
