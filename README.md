@@ -51425,17 +51425,19 @@ endsolid
 # <hr/>
 # Power and Sense Management </br>
 ## Power Management </br>
-<a href="#">EV3 Brick</a>
-<a href="#">Battery</a>
-<a href="#">Medium motor</a>
-<a href="#">Color sensor</a>
-<a href="#">Ultrasonic sensor</a>
-<a href="#">Gyro sensor</a>
-<a href="#">Pixy2</a>
+The core of our robot is <a href="#">EV3 Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
+<a href="#">EV3 Brick</a> </br>
+<a href="#">Battery</a> </br>
+<a href="#">Medium motor</a> </br>
+<a href="#">Color sensor</a> </br>
+<a href="#">Ultrasonic sensor</a> </br>
+<a href="#">Gyro sensor</a> </br>
+<a href="#">Pixy2</a> </br>
+## Sense Management </br>
+UART sensors of LEGO EDUCATION MINDSTORMS EV3 Core Set such as color, ultrasonic and gyro sensors are used for sense management of our robot. Gyro sensor is used to save initial robot position in degrees
 # <hr/>
 # Obstacle Management
-For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 https://pixycam.com/downloads-pixy2/ .
-
+For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>. </br>
 Then in LEGO MINDSTORMS you will have this block:
 ![alt text](?raw=true)
 # <hr/>
