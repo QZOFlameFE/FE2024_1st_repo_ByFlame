@@ -51423,9 +51423,21 @@ solid
 endsolid
 ```
 # <hr/>
-# Power and Sense Management
+# Power and Sense Management </br>
+## Power Management </br>
+<a href="#">EV3 Brick</a>
+<a href="#">Battery</a>
+<a href="#">Medium motor</a>
+<a href="#">Color sensor</a>
+<a href="#">Ultrasonic sensor</a>
+<a href="#">Gyro sensor</a>
+<a href="#">Pixy2</a>
 # <hr/>
 # Obstacle Management
+For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 https://pixycam.com/downloads-pixy2/ .
+
+Then in LEGO MINDSTORMS you will have this block:
+![alt text](?raw=true)
 # <hr/>
 # Pictures
 ## Robot Photos
@@ -51440,8 +51452,8 @@ endsolid
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/official-photos/Official_team_photo.jpeg?raw=true)
 # <hr/>
 # Performance videos
-https://www.youtube.com/watch?v=abwXTLdPtoA </br>
-https://www.youtube.com/watch?v=MrlbhuZwWcI
+## Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
+## Obstacle Challenge: https://www.youtube.com/watch?v=MrlbhuZwWcI </br>
 # <hr/>
 # Engineering Factor
 # <hr/>
