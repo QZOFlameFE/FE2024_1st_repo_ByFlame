@@ -51426,7 +51426,7 @@ endsolid
 # Power and Sense Management </br>
 ## Power Management </br>
 The core of our robot is <a href="#">EV3 Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
-<img src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png width=300px height=300px>
+<img align = center src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png>
 <a href="">EV3 Brick</a> </br>
 <img src="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Rechargable_10V_Lithuim_Battery.png" width=300px height=300px>
 <a href="#">Battery</a> </br>
