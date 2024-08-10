@@ -51426,13 +51426,21 @@ endsolid
 # Power and Sense Management </br>
 ## Power Management </br>
 The core of our robot is <a href="#">EV3 Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
+<img url="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management_EV3_P-Brick.webp" width=300px height=300px>
 <a href="#">EV3 Brick</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Battery</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Medium motor</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Color sensor</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Ultrasonic sensor</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Gyro sensor</a> </br>
+<img url="" width=300px height=300px>
 <a href="#">Pixy2</a> </br>
+<img url="" width=300px height=300px>
 ## Sense Management </br>
 UART sensors of LEGO EDUCATION MINDSTORMS EV3 Core Set such as color, ultrasonic and gyro sensors are used for sense management of our robot. Gyro sensor is used to save initial robot position in degrees
 # <hr/>
