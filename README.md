@@ -23,14 +23,13 @@
 > dadasdadas
 # <hr/>
 # Mobility Management
+  Our robot is designed by lego, especially we used LEGO MINDSTORMS Education Core Set(Serial number 45544) and other LEGO EV3 sets: EV3 Expansion Set, EV3 Homeschool Combo Pack and others. You can view all of the LEGO EV3 sets by this link: <a href="https://www.bricklink.com/catalogList.asp?catType=S&catString=166.59.800">https://www.bricklink.com/catalogList.asp?catType=S&catString=166.59.800</a>. Robot's wheels are taken from LEGO SPIKE Prime set and its expansion set(serial numbers 45678-1 and  45680-1). The explanation of our construction design is on our youtube channel <a href="https://www.youtube.com/channel/UC0_5yZ2aPdJc0X5wtIw4ZcA">"QZO Flame" (tag: @QZOFlame)</a>.
    * [Building Instructions](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/README.md)
-   * [3D model of Pixy Camera_Case]()
-## 3D models
-### Pixy Camera
+   * [3D model of Pixy Camera_Case](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/3D_models/README.md)
 # <hr/>
 # Power and Sense Management </br>
 ## Power Management </br>
-The core of our robot is <a href="#">EV3 Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
+The core of our robot is <a href="#">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png?raw=true)
 <a href="">EV3 Brick</a> </br>
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Rechargable_10V_Lithuim_Battery.png?raw=true)
