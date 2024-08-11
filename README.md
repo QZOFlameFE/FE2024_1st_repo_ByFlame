@@ -82,7 +82,7 @@ UART sensors of LEGO EDUCATION MINDSTORMS EV3 Core Set such as color, ultrasonic
 -->
 # Obstacle Management
 For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>. </br>
-<div align = center style="display: flex; flex-direction: column">
+<div align = center style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/ICON%20PIxyMon%20v2.png)
 PixyMon v2 application
