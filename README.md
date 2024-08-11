@@ -85,9 +85,10 @@ For the obstacle detection we used Pixy2 camera and PixyMon v2 application to co
 <div align = center style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/ICON%20PIxyMon%20v2.png)
-PixyMon v2 application
+<p>PixyMon v2 application</p>
+
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/Pixy_Block.png)
-Pixy block for LEGO MINDSTORMS
+<p>Pixy block for LEGO MINDSTORMS</p>
 </div>
   * [Pixy2 camera's configuration]()
   * [Programm part for obstacle detection]()
