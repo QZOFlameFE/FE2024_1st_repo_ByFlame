@@ -47,23 +47,12 @@ For better stability we used differential with two motors and steering control a
 -->
 # Power and Sense Management </br>
 ## Power Management </br>
-The core of our robot is <a href="#">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
+The core of our robot is <a href="#">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. 
+</br>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png)
-
-<a href="">EV3 Brick</a> </br>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Rechargable_10V_Lithuim_Battery.png?raw=true)
-<a href="#">Battery</a> </br>
-![alt text]
-<a href="#">Medium motor</a> </br>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Color_Sensor.png?raw=true)
-<a href="#">Color sensor</a> </br>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Ultrasonic_Sensor.png?raw=true)
-<a href="#">Ultrasonic sensor</a> </br>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Gyro_Sensor.png?raw=true)
-<a href="#">Gyro sensor</a> </br>
-![alt text](
-<a href="#">Pixy2</a> </br>
+* [Electroschemes of sensors](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/README.md)
+* 
 <!-- 
 
 
@@ -107,18 +96,29 @@ For the obstacle detection we used Pixy2 camera and PixyMon v2 application to co
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/ICON%20PIxyMon%20v2.png)
 <p> 
-# PixyMon v2 application
+PixyMon v2 application
 </p>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/Pixy_Block.png)
 <p>
-  # Pixy block for LEGO MINDSTORMS
+Pixy block for LEGO MINDSTORMS
 </p>
 </div>
   * [Pixy2 camera's configuration]()
   * [Programm part for obstacle detection]()
 ![alt text](?raw=true)
 # <hr/>
+<!-- 
+
+
+
+ENDED
+
+
+
+
+
+-->
 # Pictures
 ## Robot Photos
 
@@ -132,9 +132,30 @@ For the obstacle detection we used Pixy2 camera and PixyMon v2 application to co
 ## Team Photos
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/official-photos/Official_team_photo.jpeg?raw=true)
 # <hr/>
+<!-- 
+
+
+
+
+
+
+
+
+
+
+-->
 # Performance videos
 ## Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
 ## Obstacle Challenge: https://www.youtube.com/watch?v=MrlbhuZwWcI </br>
 # <hr/>
+<!-- 
+
+
+
+
+
+
+
+-->
 # Engineering Factor
 # <hr/>
