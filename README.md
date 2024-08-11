@@ -46,7 +46,7 @@ For better stability we used differential with two motors and steering control a
 # Power and Sense Management </br>
 ## Power Management </br>
 The core of our robot is <a href="#">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. </br>
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png?raw=true)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png)
 <a href="">EV3 Brick</a> </br>
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Instructions/Power_and_Sense_Management/EV3_Rechargable_10V_Lithuim_Battery.png?raw=true)
 <a href="#">Battery</a> </br>
