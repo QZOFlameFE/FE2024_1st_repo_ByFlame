@@ -81,8 +81,11 @@ Our robot's differential at rear axle
 </tr>
 </table>
 
-## Usage of differential
-  We used differential for making smoother turns and 
+## Weight distribution
+  As our robot is a self-driving car with stering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.
+  
+## Camera's position
+
 </div>
   The explanation of our construction design is on our youtube channel <a href="https://www.youtube.com/channel/UC0_5yZ2aPdJc0X5wtIw4ZcA">"QZO Flame" (tag: @QZOFlame)</a>.
    
