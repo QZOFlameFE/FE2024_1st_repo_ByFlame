@@ -42,14 +42,14 @@ The basic of our chassis design comes from Ackerman model. It improves robot's s
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/Ackermann_simple_design.png)
 <table>
 <tr>
-<td>
+<td colspan=1 rowspan=1>
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/Steering_control.png)
 Our robot's steering control construction
 </td>
 </tr>
 <tr>
-<td>
+<td colspan=2 rowspan=1>
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/Differential.png)
 Our robot's differential at rear axle
