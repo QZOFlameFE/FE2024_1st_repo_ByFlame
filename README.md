@@ -40,10 +40,24 @@ For better stability we used differential with two motors and steering control a
 ## Chassis design
 The basic of our chassis design comes from Ackerman model. It improves robot's stability during turns, 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/Ackermann_simple_design.png)
+<table>
+<tr>
+<td>
+  
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/Steering_control.png)
 Our robot's steering control construction
+</td>
+</tr>
+<tr>
+<td>
+  
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Building_Instructions/Differential.png)
 Our robot's differential at rear axle
+
+</td>
+</tr>
+</table>
+
 ## Usage of differential
   We used differential for making smoother turns and 
 </div>
