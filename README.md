@@ -54,7 +54,8 @@ For better stability we used differential with two motors and steering control a
 </div>
 
 ## Chassis design
-The basic of our chassis design comes from Ackerman model. It improves robot's stability during turns, 
+The base of our chassis design comes from Ackerman model. It improves robot's stability during turns and ...
+We have a differential in driving rear axle of our robot to make turns smoother. If robot turns one wheel will move slower than second so our robot will turn by steering mechanism in supplies with the differential.
 <table>
 <tr>
 <th width=250>
