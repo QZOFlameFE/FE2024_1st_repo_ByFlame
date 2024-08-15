@@ -55,7 +55,7 @@ CONTENT
 </table>
 </div>
 
-## Chassis design
+### Chassis design
 The base of our chassis design comes from Ackerman model. It improves robot's stability during turns and ...
 We have a differential in driving rear axle of our robot to make turns smoother. If robot turns one wheel will move slower than second so our robot will turn by steering mechanism in supplies with the differential.
 <table>
@@ -83,10 +83,10 @@ Our robot's differential at rear axle
 </tr>
 </table>
 
-## Weight distribution
+### Weight distribution
   As our robot is a self-driving car with steering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.
   
-## Camera's position
+### Camera's position
   Our camera places as much higher and behind as its possible for better view and obstacle control. It also inclined a bit down to view blocks that are close to robot and limit the view for better obstacle management.
 </div>
 
@@ -207,7 +207,7 @@ ENDED
 
 -->
 # Pictures
-## Robot Photos
+### Robot Photos
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/front_side.png?raw=true)
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/right_side.png?raw=true)
@@ -232,8 +232,8 @@ ENDED
 
 -->
 # Performance videos
-## Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
-## Obstacle Challenge: https://www.youtube.com/watch?v=MrlbhuZwWcI </br>
+### Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
+### Obstacle Challenge: https://www.youtube.com/watch?v=MrlbhuZwWcI </br>
 # <hr/>
 <!-- 
 
@@ -245,7 +245,7 @@ ENDED
 
 -->
 # Engineering Factor
-## Construction making
+### Construction making
   For our construction we used LEGO MINDSTORMS Education Set and wheels from LEGO SPIKE Prime Set as it conducts simple platform LEGO MINDSTORMS application for code, logic and powerful UART sensors as Gyro, Ultrasonic and Colorsensor for sense management and EV3 programmable brick as a main controller. </br>
 
   Pixy2 camera is a powerful tool with I2C communication protocol. It is used to distinguish colors of red, green blocks and parking in obstacle challenge, their position by relative coordinates and their relative sizes. It also has its own programm <u>PixyMon v2</u> for configuration of Pixy2 camera, with interactive interface including various settings. </br>
