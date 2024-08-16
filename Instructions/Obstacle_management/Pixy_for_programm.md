@@ -7,3 +7,9 @@ camera's relative y coordinate of the object
 relative width of the object
 relative height of the object
 angle of the object to camera
+
+Pixy Block has 2 modes:
+1
+2
+
+Pixy's data transmi
