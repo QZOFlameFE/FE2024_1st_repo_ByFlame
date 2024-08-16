@@ -13,4 +13,15 @@ To view how Pixy2 camera track the block we click to "View" panel and then choos
 
 
 </br> </br>
-Pixy2 is a camera that can detect and view colors of the objects and their relative position and size. It is a powerful tool for obstacle detection as it recognizes road signs and parking in the obstacle challenge. 
+Pixy2 is a camera that can detect and view colors of the objects and their relative position and size. It is a powerful tool for obstacle detection as it recognizes road signs and parking in the obstacle challenge. To set it you need to follow this steps:
+1) Download Pixymon v2
+2) Set the "camera brightness" in settings
+[images]
+3) Set the signatures in "Action" field
+[image]
+4) Set the "View" field to "blocks, video, detected pixels"
+[image]
+5) Set the settings
+[images]
+5.1) Regulate "signature range" for every signature you have
+5.2) Regulate "min block area"
