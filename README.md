@@ -63,9 +63,9 @@ CONTENT
 </table>
 </div>
 
-### Chassis design
-The base of our chassis design comes from Ackerman model. It improves robot's stability during turns and ...
-We have a differential in driving rear axle of our robot to make turns smoother. If robot turns one wheel will move slower than second so our robot will turn by steering mechanism in supplies with the differential.
+### Chassis design and differential
+The base of our chassis design comes from Ackerman steering model geometry. It improves maintainabiity of the robot as it controls the smoothness of the turns because of the maximum degrees of the steering can move
+We have a differential in driving rear axle of our robot to make turns smoother. If robot turns one wheel will move slower than second and it reduces radius of the turn so our robot turn is controlled by 2 mechanisms: steering mechanism and differential.
 <table>
 <tr>
 <th width=250>
@@ -274,4 +274,6 @@ Pixy block for LEGO MINDSTORMS
   For our construction we used LEGO MINDSTORMS Education Set and wheels from LEGO SPIKE Prime Set as it conducts simple platform LEGO MINDSTORMS application for code, logic and powerful UART sensors as Gyro, Ultrasonic and Colorsensor for sense management and EV3 programmable brick as a main controller. </br>
 
   Pixy2 camera is a powerful tool with I2C communication protocol. It is used to distinguish colors of red, green blocks and parking in obstacle challenge, their position by relative coordinates and their relative sizes. It also has its own programm <u>PixyMon v2</u> for configuration of Pixy2 camera, with interactive interface including various settings. </br>
+### Programming
+  For the programming we used <a href="">LEGO MINDSTORMS</a> application. 
 # <hr/>
