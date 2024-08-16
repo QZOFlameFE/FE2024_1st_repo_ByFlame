@@ -176,7 +176,7 @@ PixyMon v2 application
 
 <table>
 <tr>
-<th width=250>
+<th width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_Management/Pixy_Block.png)
 <p>
