@@ -26,17 +26,19 @@ CONTENT
 
 # Contents 
 * [**Mobility management**](#mobility-management)
-  * [Motor selection](#motor-selection)
   * [Chassis design](#chassis-design)
-* [**Power and sense management**](#power-and-sense-management)
-  * [Sensor management](#sensor-management)
-  * [Power management](#power-management)
+  * [Weight distribution](#weight-distribution)
+  * [Camera's position](#camera's-position)
+  * [Motor selection](#motor-selection)
+* [**Power and Sense Management**](#power-and-sense-management)
+  * [Sense Management](#sense-management)
+  * [Power Management](#power-management)
 * [**Engineering factor**](#engineering-factor)
 * [**Obstacle management**](#obstacle-management)
 * [**Pictures**](#pictures)
-  * [Team photos](#team-photos)
-  * [Robot photos](#robot-photos)
-* [**Performance video**](#performance-video)
+  * [Robot Photos](#robot-photos)
+  * [Team Photos](#team-photos)
+* [**Performance videos**](#performance-videos)
 > [!IMPORTANT]
 > Hello Batyrkhan :kissing_heart:
 # <hr/>
