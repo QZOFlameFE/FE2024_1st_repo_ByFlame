@@ -194,7 +194,7 @@ Pixy block for LEGO MINDSTORMS
 </div>
 
   * [Pixy2 camera's configuration](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/README.md)
-  * [Programm part for obstacle detection]()
+  * [Programm part for obstacle detection](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/Pixy_for_programm.md)
 
 # <hr/>
 
