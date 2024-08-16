@@ -10,3 +10,7 @@ The main parameters of the Pixymon are signature range, camera brightness, max b
 
 To view how Pixy2 camera track the block we click to "View" panel and then choose "blocks, video, detected pixels" mode. 
 
+
+
+</br> </br>
+Pixy2 is a camera that can detect and view colors of the objects and their relative position and size. It is a powerful tool for obstacle detection as it recognizes road signs and parking in the obstacle challenge. 
