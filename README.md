@@ -20,6 +20,7 @@ CONTENT
 -webkit-text-fill-color: transparent;">
 <div align = center>
   <img src=https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_Logo12.png> 
+  <img src="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/QZO_logoo.jpg">
 </div>
 </div>
 </div>
