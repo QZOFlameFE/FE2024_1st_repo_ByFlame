@@ -196,36 +196,36 @@ Pixy block for LEGO MINDSTORMS
 
 <table>
 <tr>
-  <th width=40%>
+  <th width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/front_side.png?raw=true)
   </th>
-  <th width=40%>
+  <th width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/right_side.png?raw=true)
   </th>
 </tr>
 <tr>
-  <td width=40%>
+  <td width=400>
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/back_side.png?raw=true)
   </td>
-  <td width=40%>
+  <td width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/left_side.png?raw=true)
   </td>
 </tr>
 <tr>
-  <td width=40%>
+  <td width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/top_side.png?raw=true)
   </td>
-  <td width=40%>
+  <td width=400>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/down_side.png?raw=true)
   </td>
 </tr>
 <tr>
-  <td width=40%>
+  <td width=400>
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/Front_right_side.png?raw=true)
   </td>
