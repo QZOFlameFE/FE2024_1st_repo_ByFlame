@@ -25,14 +25,20 @@ CONTENT
 </div>
 
 # Contents 
-`3D_models` contains 3D models of the project <br/>
-`Team_photos` contains team photos and creating process photos <br/>
-`Vehicle_photos` contains vehicle photos from every side, of an each model and process <br/>
-`programms` contains the code and programms to run the robot <br/>
-`videos` contains videos that demonstrates how robot works and runs, explanation of its basic principles <br/>
-`ideas`
+* [**Mobility management**](#mobility-management)
+  * [Motor selection](#motor-selection)
+  * [Chassis design](#chassis-design)
+* [**Power and sense management**](#power-and-sense-management)
+  * [Sensor management](#sensor-management)
+  * [Power management](#power-management)
+* [**Engineering factor**](#engineering-factor)
+* [**Obstacle management**](#obstacle-management)
+* [**Pictures**](#pictures)
+  * [Team photos](#team-photos)
+  * [Robot photos](#robot-photos)
+* [**Performance video**](#performance-video)
 > [!NOTE]
-> dadasdadas
+> Hello Batyrkhan
 # <hr/>
 <!-- 
 
