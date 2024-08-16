@@ -201,6 +201,7 @@ ENDED
 
 
 -->
+
 # Pictures
 ### Robot photos
 
@@ -214,6 +215,7 @@ ENDED
 ## Team Photos
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/official-photos/Official_team_photo.jpeg?raw=true)
 # <hr/>
+
 <!-- 
 
 
