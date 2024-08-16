@@ -196,13 +196,13 @@ Pixy block for LEGO MINDSTORMS
 
 <table>
 <tr>
-  <th width=250 colspan=1>
+  <th width=250 colspan=1 rowspan=1>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/front_side.png?raw=true)
   </th>
 </tr>
 <tr>
-  <th width=250 colspan=2>
+  <th width=250 colspan=2 rowspan=2>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/right_side.png?raw=true)
   </th>
