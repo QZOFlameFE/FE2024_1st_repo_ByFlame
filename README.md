@@ -28,7 +28,7 @@ CONTENT
 * [**Mobility management**](#mobility-management)
   * [Chassis design](#chassis-design)
   * [Weight distribution](#weight-distribution)
-  * [Camera's position](#camera's-position)
+  * [Camera position](#camera-position)
   * [Motor selection](#motor-selection)
 * [**Power and Sense Management**](#power-and-sense-management)
   * [Sense Management](#sense-management)
@@ -94,7 +94,7 @@ Our robot's differential at rear axle
 ### Weight distribution
   As our robot is a self-driving car with steering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.
   
-### Camera's position
+### Camera position
   Our camera places as much higher and behind as its possible for better view and obstacle control. It also inclined a bit down to view blocks that are close to robot and limit the view for better obstacle management.
 </div>
 
