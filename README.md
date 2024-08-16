@@ -208,11 +208,11 @@ Pixy block for LEGO MINDSTORMS
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/back_side.png?raw=true)
   </th>
-<tr>
   <td width=250>
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/left_side.png?raw=true)
   </td>
+<tr>
   <td width=250 >
 
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/top_side.png?raw=true)
