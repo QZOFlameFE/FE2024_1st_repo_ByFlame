@@ -188,19 +188,8 @@ Pixy block for LEGO MINDSTORMS
 </div>
   * [Pixy2 camera's configuration]()
   * [Programm part for obstacle detection]()
-![alt text](?raw=true)
+
 # <hr/>
-<!-- 
-
-
-
-ENDED
-
-
-
-
-
--->
 
 # Pictures
 ### Robot photos
