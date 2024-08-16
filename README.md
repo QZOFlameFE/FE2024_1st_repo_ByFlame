@@ -37,8 +37,8 @@ CONTENT
   * [Team photos](#team-photos)
   * [Robot photos](#robot-photos)
 * [**Performance video**](#performance-video)
-> [!NOTE]
-  > Hello Batyrkhan :kissing_heart:
+> [!IMPORTANT]
+> Hello Batyrkhan :kissing_heart:
 # <hr/>
 <!-- 
 
