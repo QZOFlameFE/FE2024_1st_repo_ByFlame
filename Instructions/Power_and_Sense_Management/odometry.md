@@ -9,7 +9,7 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
   <tr>
     <th heigh=200>
 
-  ![odometry explanation](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/relative_odometry.png) 
+  ![odometry explanation](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png) 
     </th>
     <th width=400>
     
