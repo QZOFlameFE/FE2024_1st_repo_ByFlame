@@ -262,7 +262,7 @@ Pixy block for LEGO MINDSTORMS
 -->
 # Performance videos
 ### Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
-### Obstacle Challenge: https://www.youtube.com/watch?v=MrlbhuZwWcI </br>
+### Obstacle Challenge: https://www.youtube.com/watch?v=in7TNcsKKQ0 </br>
 # <hr/>
 <!-- 
 
