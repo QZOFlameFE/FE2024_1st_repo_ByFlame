@@ -7,13 +7,13 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
   the cos or sin is used for determinig x and y coordinates.
 <table>
   <tr>
-    <th heigh=300>
+    <th width=400>
 
   ![odometry explanation](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png) 
     </th>
   </tr>
   <tr>
-    <th width=400>
+    <th height=300>
     
   ![relative odometry programm part](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/relative_odometry.png) </br>
     </td>
