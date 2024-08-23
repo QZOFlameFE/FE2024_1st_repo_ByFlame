@@ -40,8 +40,6 @@ CONTENT
   * [Team Photos](#team-photos)
 * [**Performance videos**](#performance-videos)
 * [**Engineering factor**](#engineering-factor)
-> [!IMPORTANT]
-> Hello Batyrkhan :kissing_heart:
 # <hr/>
 <!-- 
 
