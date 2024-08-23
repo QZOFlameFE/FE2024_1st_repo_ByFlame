@@ -5,4 +5,5 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
 ## Explanation of the formula
   6.0770044 value comes from converting encoder's degrees and gear's cogs to centimeters. 
   the cos or sin is used for determinig x and y coordinates.
-  (!odometry explanation)[https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png]
+  
+  !(odometry explanation)[https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png]
