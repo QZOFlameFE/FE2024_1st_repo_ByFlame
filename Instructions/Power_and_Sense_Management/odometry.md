@@ -14,3 +14,8 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
   </tr>
 </table>
 </br>
+
+# Absolute odometry
+
+![absolute odometry principle](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_principle.png)
+the relative odometry transfers to the absolute odometry when the color sensor views line. 
