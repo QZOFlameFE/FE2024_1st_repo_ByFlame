@@ -76,6 +76,7 @@ Also we use odometry to detect the coordinates of pillars (red and green signs).
 <table>
   <tr>
     <th width=200>
+      
 ![aligning odometry in the programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/aligning_odometry_in_programm.png)
     </th>
   </tr>
