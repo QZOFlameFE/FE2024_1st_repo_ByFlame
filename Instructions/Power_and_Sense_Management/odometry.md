@@ -45,3 +45,4 @@ When color sensor detects the line relative odometry transfers to absolute odome
 To align robot to the center of the straightforward zone. It is great to aligning robot to the center of the road for the Pixy2 camera to attach better view. 
 ### Avoid crash
 Also we use odometry to detect the coordinates of pillars (red and green signs). If robot is too close to the pillars odometry helps to avoid accident and robot by gyro sensor and specific programm robot moves to the back. it works only between corner and straightforward zones to avoid collision with pillars in the back of the robot.
+# Aligning odometry
