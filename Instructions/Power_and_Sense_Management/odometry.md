@@ -27,6 +27,7 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
 # Absolute odometry
 
 ![absolute odometry principle](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_principle.png) </br>
+![relative odometry to absolute odometry](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/relative_odometry_to_absolute_odometry.png) </br>
 ![absolute odometry in programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_in_programm.png) </br>
 When color sensor detects the line relative odometry transfers to absolute odometry with  coordinates center in center of the map. The principle is the x coordinate of the relative odometry by specific math operations transfers to full odometry. When the driving direction is clockwise we substract 100 from relative odometry's X coordinate and by linear function of the orange line in the map we transfer relative odometry to absolute odometry. If the driving direction is anticlockwise we sum 100 with relative odometry's X coordinate and with linear function of the blue line of the map we get absolute odometry.
 
