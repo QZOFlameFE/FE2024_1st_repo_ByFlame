@@ -69,8 +69,24 @@ When color sensor detects the line relative odometry transfers to absolute odome
 
 ## Usage of odometry in programm
 ### Aligning robot to the center
+<table>
+  <tr>
+    <th width=200>
+
+![align_center_in_programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/align_center_in_programm.png)
+</th>
+</tr>
+</table>
 To align robot to the center of the straightforward zone. It is great to aligning robot to the center of the road for the Pixy2 camera to attach better view. 
 ### Avoid crash
+<table>
+<tr>
+<th width=200>
+
+![avoid crash in programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/avoid_crash_in_programm.png)
+</th>
+</tr>
+</table>
 Also we use odometry to detect the coordinates of pillars (red and green signs). If robot is too close to the pillars odometry helps to avoid accident and robot by gyro sensor and specific programm robot moves to the back. it works only between corner and straightforward zones to avoid collision with pillars in the back of the robot.
 # Aligning odometry
 <table>
