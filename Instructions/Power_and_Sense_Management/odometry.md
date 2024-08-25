@@ -32,7 +32,7 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
 # Absolute odometry
 <table>
   <tr>
-    <th width=200>
+    <th width=1000>
       
 ![absolute odometry principle](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_principle.png) </br>
 > [!NOTE]
