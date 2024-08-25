@@ -247,7 +247,7 @@ Pixy block for LEGO MINDSTORMS
   </td>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/top.jpg)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/view.jpg)
   </td>
 </tr>
 <tr>
