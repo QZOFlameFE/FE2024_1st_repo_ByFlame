@@ -15,3 +15,10 @@ angle of the object to camera </br>
 </th>
 </tr>
 </table>
+
+## Change of the driving direction
+We use relative Y coordinate to detect if the last signature is green or red. If the robot views siqnature and it's y coordinate is high it is saved in variable named "last sign". 
+## Parling position
+To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position.
+## Bypassing obstacles
+We use steering mechanism and pixy2 coordinates and connect them with linear function. So if the laps are close to robot linear function gives high values to steering mechanism's motor. 
