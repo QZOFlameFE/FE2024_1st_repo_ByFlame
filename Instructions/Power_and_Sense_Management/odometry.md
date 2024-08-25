@@ -9,7 +9,7 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
   <tr>
     <th width=400>
 
-  ![odometry explanation](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png) 
+  ![odometry explanation](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/calculating_odometry.png) </br>
     </th>
   </tr>
 </table>
@@ -18,6 +18,7 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
     <th height=300>
     
   ![relative odometry programm part](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/relative_odometry.png) </br>
+  ![relative odometry in programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/relative_odometry_programm.png) </br>
     </td>
   </tr>
 </table>
