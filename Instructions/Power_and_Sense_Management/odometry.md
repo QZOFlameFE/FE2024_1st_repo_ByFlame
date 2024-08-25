@@ -81,3 +81,4 @@ Also we use odometry to detect the coordinates of pillars (red and green signs).
     </th>
   </tr>
 </table>
+Odometry is a complex principle that can lose its accuracy over time, therefore, in order for our odometry to be accurate, we correct it with the help of ultrasonic and gyro sensor
