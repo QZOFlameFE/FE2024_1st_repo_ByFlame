@@ -173,7 +173,16 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
     
   ![obstacle detection](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/Obstacle_detection1.png)
   </th>
+  <tr>
+    <th width=500>
+      
+  ![linear function](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/linear_function_convert.png)
+</th>
+  <th width=500>
+    
+  ![linear function](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/linear_function.png)
 </table>
+To calculate linear function we use this site: <a href="https://planetcalc.ru/8110/?ysclid=m0a3s77i4p794636345">https://planetcalc.ru/8110/?ysclid=m0a3s77i4p794636345</a>.
 </br>
 <div align = center style="display: flex; flex-direction: column; align-items: center; justify-content: center; color: gray">
 
