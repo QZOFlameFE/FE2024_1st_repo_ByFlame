@@ -26,4 +26,10 @@ The Odomoetry is based in combine of all of the sensors that robot have. Ultraso
 # Absolute odometry
 
 ![absolute odometry principle](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_principle.png) </br>
-The relative odometry transfers to the absolute odometry when the color sensor views line. 
+When color sensor detects the line relative odometry transfers to absolute odometry with  coordinates center in center of the map. The principle is the x coordinate of the relative odometry by specific math operations transfers to full odometry. When the driving direction is clockwise we substract 100 from relative odometry's X coordinate and by linear function of the orange line in the map we transfer relative odometry to absolute odometry. If the driving direction is anticlockwise we sum 100 with relative odometry's X coordinate and with linear function of the blue line of the map we get absolute odometry.
+
+## Usage of odometry in programm
+### Aligning robot to the center
+To align robot to the center of the straightforward zone. It is great to aligning robot to the center of the road for the Pixy2 camera to attach better view. 
+### Avoid crash
+Also we use odometry to detect the coordinates of pillars (red and green signs). If robot is too close to the pillars odometry helps to avoid accident and robot by gyro sensor and specific programm robot moves to the back. it works only between corner and straightforward zones to avoid collision with pillars in the back of the robot.
