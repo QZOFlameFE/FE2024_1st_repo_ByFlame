@@ -46,3 +46,10 @@ To align robot to the center of the straightforward zone. It is great to alignin
 ### Avoid crash
 Also we use odometry to detect the coordinates of pillars (red and green signs). If robot is too close to the pillars odometry helps to avoid accident and robot by gyro sensor and specific programm robot moves to the back. it works only between corner and straightforward zones to avoid collision with pillars in the back of the robot.
 # Aligning odometry
+<table>
+  <tr>
+    <th width=200>
+![aligning odometry in the programm](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/aligning_odometry_in_programm.png)
+    </th>
+  </tr>
+</table>
