@@ -124,11 +124,31 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
   * [Electroschemes/wiring diagrams](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/README.md)
 
-  ### Limirarions of EV3 P-brick
+  ### Limitations of EV3 P-brick
+  
   <ul>
-    <li> Only 4 ports for motors and 4 ports for sensors, meaning only 4 motors and 4 sensors can be used. </li>
-    <li></li>
+    <li> Only 4 ports for motors and 4 ports for sensors are given, meaning only 4 motors and 4 sensors can be used. </li>
+    <li> Single Core CPU decreases programm performance, deprives multithreaded data processing (not parallelization) </li>
+    <li> Active bluetooth mode sometimes interferes with operations of sensors </li>
+    <li> 64 MB of RAM, 16 MB of built-in-storage limits the abilities to code complex programms </li>
   </ul>
+
+  ### Comparison with other popular controllers
+  
+  <table>
+    <tr>
+      <th> EV3 P-Brick </th>
+      <th> Arduino UNO </th>
+      <th> Raspberry Pi </th>
+    </tr> 
+  </table>
+  
+  ### Limitations of LEGO Mindstorms
+  <ul>
+    <li></li>
+  
+  </ul>
+   
 ## Sense management </br>
   UART sensors of LEGO EDUCATION MINDSTORMS EV3 Core Set such as color, ultrasonic and gyro sensors are used for sense management of our robot. </br>
   Gyro sensor is used to save initial robot position in degrees and count the deviation from it. Ultrasonic sensor measures the distance from robot to wall. Color sensor is used to know the driving direction of the round. Encoders in medium motors are used to know the distance that robot moved. Our programm uses mix of this sensors to create the odometry of our robot, by the usage of encoders, gyro sensor and Pythagoras theorem we calculate the displacement that robot moves from initial positions and convert it to x and y coordinates. Before the first line in first lap the odometry is relative to the robot's initial position and after the color sensor views the line it recognizes robot direction and by specific math formulas it converts relative odometry to full odometry of the map, the center of the map is the center of odometry where x and y coordinates are equal to zero. Ultrasonic sensor and Gyro sensor in combine used to fix odometry also by Pythagoras theorem and exceptions for the situations when ultrasonic sensor view blocks. The detailed infprmation of sense management will be below.
