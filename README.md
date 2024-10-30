@@ -154,6 +154,14 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
        
   Raspberry Pi </th>
     </tr> 
+    <tr>
+    <td> processor </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </table>
   
   ### Limitations of LEGO Mindstorms
