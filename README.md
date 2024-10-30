@@ -187,7 +187,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   </ul>
   </br>
   </br>
-  For the better Power and Sense management it would be better to switch on Raspberry Pi in spite of its abilities like more sensors and motors can be connected, unlimited programming and etc. 
+  For the better Power and Sense management it would be better to switch on Raspberry Pi in spite of its abilities like more sensors and motors can be connected, unlimited programming and it does mot limit the choose in sensors and motors like LEGO EV3 P-Brick. 
    
 ## Sense management </br>
   UART sensors of LEGO EDUCATION MINDSTORMS EV3 Core Set such as color, ultrasonic and gyro sensors are used for sense management of our robot. </br>
