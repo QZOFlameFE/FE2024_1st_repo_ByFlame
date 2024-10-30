@@ -155,12 +155,28 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   Raspberry Pi </th>
     </tr> 
     <tr>
-    <td colspan=3> processor </td>
+    <td colspan=3 align=center> processor </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td align=center> 300 MHz, 1 core </td>
+      <td align=center> 16MHz </td>
+      <td align=center> 1.5 GHz, 4 cores </td>
+    </tr>
+     <tr>
+    <td colspan=3 align=center> ports </td>
+    </tr>
+    <tr>
+      <td align=center> 4 ports for sensors, 4 ports for motors </td>
+      <td align=center> 14 digital, 6 analog pins </td>
+      <td align=center> 40 GPIO pins </td>
+    </tr>
+    <tr>
+    <td colspan=3 align=center> programming </td>
+    </tr>
+    <tr>
+      <td align=center> LEGO Mindstorms, limited Python and C++ </td>
+      <td align=center> Arduino IDE (C, C++ based) </td>
+      <td align=center> Multiple languages (Python, C++, Java, etc.) </td>
     </tr>
   </table>
   
