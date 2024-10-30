@@ -359,7 +359,7 @@ Pixy block for LEGO MINDSTORMS
 
 
 -->
-# Engineering Factor
+<!-- # Engineering Factor
 ### Construction making
   For our construction we used LEGO MINDSTORMS Education Set and wheels from LEGO SPIKE Prime Set as it conducts simple platform LEGO MINDSTORMS application for code, logic and powerful UART sensors as Gyro, Ultrasonic and Colorsensor for sense management and EV3 programmable brick as a main controller. </br>
 
