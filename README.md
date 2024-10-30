@@ -155,7 +155,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   Raspberry Pi </th>
     </tr> 
     <tr>
-    <td> processor </td>
+    <td rowspan=1> processor </td>
     </tr>
     <tr>
       <td></td>
