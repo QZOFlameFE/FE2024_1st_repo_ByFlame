@@ -137,18 +137,18 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   
   <table>
     <tr>
-      <th height=200>
+      <th width=200>
         
   ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/EV3_P-Brick.png)
   
   EV3 P-Brick </th>
-      <th height=200>
+      <th width=200>
         
   ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Arduino_UNO.jpeg)
         
   Arduino UNO 
       </th>
-      <th height=200> 
+      <th width=200> 
       
   ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Raspberry_Pi_4B.png)
        
