@@ -347,7 +347,13 @@ Pixy block for LEGO MINDSTORMS
 <table>
   <tr>
     <th align = center> Mobility Management </th>
-    <td>  </td>
+    <td> 
+    <ul>
+      <li> LEGO motors, sensors and P-Brick are large in comparison with other electrical components </li>
+      <li> LEGO EV3 set have limited opportunities like it is impossible to make Ackermann steering control geometry </li>
+      <li> creating construction only by LEGO diminish </li>
+    </ul>
+    </td>
   </tr> 
     
   <tr>
@@ -362,6 +368,7 @@ Pixy block for LEGO MINDSTORMS
       <li> LEGO sensors are less accurate in comparison with other available sensors </li>
     </td>
   </tr>
+      
   <tr>
     <th align = center> Obstacle Management </th>
     <td> <ul>
