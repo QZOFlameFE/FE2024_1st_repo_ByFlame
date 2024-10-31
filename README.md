@@ -124,15 +124,6 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
   * [Electroschemes/wiring diagrams](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/README.md)
 
-  ### Limitations of EV3 P-brick
-  
-  <ul>
-    <li> Only 4 ports for motors and 4 ports for sensors are given, meaning only 4 motors and 4 sensors can be used. </li>
-    <li> Single Core CPU decreases programm performance, deprives multithreaded data processing (not parallelization) </li>
-    <li> Active bluetooth mode sometimes interferes with operations of sensors </li>
-    <li> 64 MB of RAM, 16 MB of built-in-storage limits the abilities to code complex programms </li>
-  </ul>
-
   ### Comparison with other popular controllers
   
   <table>
