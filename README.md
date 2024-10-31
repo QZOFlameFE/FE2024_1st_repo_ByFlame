@@ -341,6 +341,14 @@ Pixy block for LEGO MINDSTORMS
 ### Obstacle Challenge: https://www.youtube.com/watch?v=in7TNcsKKQ0 </br>
 ### Robot parts discussion: https://www.youtube.com/watch?v=4ONiXjtQosE </br>
 # <hr/>
+
+
+
+# Code explanation
+
+
+
+
 # Conlusion
 ## Limitations
 
