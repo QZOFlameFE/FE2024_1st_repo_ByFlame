@@ -350,6 +350,40 @@ Pixy block for LEGO MINDSTORMS
 ### Obstacle Challenge: https://www.youtube.com/watch?v=in7TNcsKKQ0 </br>
 ### Robot parts discussion: https://www.youtube.com/watch?v=4ONiXjtQosE </br>
 # <hr/>
+# Conlusion
+## Limitations
+
+<table>
+  <tr>
+    <th align = center> Mobility Management </th>
+    <td>  </td>
+  </tr> 
+    
+  <tr>
+    <th> Power and Sense Management </th>
+    <td> <ul> 
+      <li> 1 core CPU deprives multithreaded data processing and accuracy of sensor records. </li>
+      <li> Only 4 ports for sensors and 4 ports for motors can be used. </li>
+      <li> The Operating System of EV3 P-Brick is limited in functionality and flexibility. </li>
+      <li> EV3 P-Brick have limited abilities in comparison with Raspberry Pi 4B that is a small computer. </li>
+      <li> EV3 P-Brick is limited in source of motors and sensors since special firmware is needed for sensors and motors to interact with EV3 P-Brick. </li>
+      <li> EV3 system has stopped in updates, and have some bugs like active bluetooth mode that sometimes interferes the operation of sensors </li> 
+      <li> LEGO sensors are less accurate in comparison with other available sensors </li>
+    </td>
+  </tr>
+  <tr>
+    <th align = center> Obstacle Management </th>
+    <td> <ul>
+      <li> Pixy2 camera's quality is low (1.3 megapixels) </li>
+      <li> Uses I2C that limits the sensor recordings to 60 times per second and lower </li>
+      <li> Outputs only specified values </li>
+      <li> Strong dependence on the lighting level </li>
+    </td>
+  </tr>
+</table>
+
+## Sugestions for further development
+
 <!-- 
 
 
