@@ -345,6 +345,7 @@ Pixy block for LEGO MINDSTORMS
 
 
 # Code explanation
+The code is written in LEGO MINDSTORMS block programming and you can download and checl it <a href="#"> here </a>. 
 
 
 
