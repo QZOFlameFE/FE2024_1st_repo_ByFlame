@@ -428,7 +428,8 @@ Since LEGO platform have numerous limitations it would be better to switch on Ra
 
 
 
-
+# Programm Logic
+First of all we align the steering wheels to the center, so the robot moves straightforward. Then in configuration we set app all of the variables with specific values and using the bug of LEGO MINDSTORMS we reset the values of gyro sensor. Then our programm splits into 3 streams, first for robot control, 2nd for taking the values of Pixy2 camera
 
 
 
