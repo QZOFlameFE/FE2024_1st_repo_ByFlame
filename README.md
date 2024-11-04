@@ -391,6 +391,38 @@ The code is written in LEGO MINDSTORMS block programming and you can download an
 
 ## Sugestions for further development
 Since LEGO platform have numerous limitations it would be better to switch on Raspberry Pi's newest model. Raspberry Pi is a single board computer that affords the abilities to work with electronics. The main advantages by switching on Raspberry Pi would be the ability to use AI for detecting objects, using numerous and various sensors for better power and sense and obstacle managements. For the construction making it would be better to built own construction including the aspects of mechanical engineering, especially Ackermann Steering Geometry for smooth turns. Also it would be possible to make construction smaller and aerodynamic for better control and to fit into parking lot vertically as it is easier. Wheel selection is also an important factor, as better rubber on wheels prevents their slipping making the encoder values more accurate and improves traction. The smaller wheels for steering mechanism reduces the turn radius, and big wheels on rear axle improves the speed. Gears system regulates the torque and speed. For obstacle management choosing camera with greater resolution, better resistence to light changes and using AI technologies would improve the obtacle avoidance. Using more accurate sensors with more iterations per second would improve the sense management. Motors with more torque, RPM and damage resistance would improve the power and sense management.
+
+<table>
+  <tr>
+    <th align = center> Switch control-board to Raspberry Pi </th>
+    <td> 
+      Since LEGO platform have numerous limitations it would be better to switch on Raspberry Pi's newest models. Moreover Raspberry Pi platform is considered as single board computer that includes all of the features of personal computers such as programming flexibility, better peripherals and ability to use AI
+    </td>
+  </tr> 
+
+  <tr>
+    <th>
+      Mobility Management
+    </th>
+    <td>
+      Switch on own designed details and improving aerodynamics, diminishing the size, creating great  Ackermann Steering Geometry for smooth turns. Switching the wheels such as smaller the wheels of steering mechanism the smoother are the turns and smaller the turn radius. Bigger wheels on rear axle improves the speed but reduces the torque, as well as gears mechanism the greater the speed, the smaller the torque. Also selection of materials  
+    </td>
+  </tr>
+    
+  <tr>
+    <th> Power and Sense Management </th>
+    <td> 
+      
+    </td>
+  </tr>
+      
+  <tr>
+    <th align = center> Obstacle Management </th>
+    <td> 
+    </td>
+  </tr>
+</table>
+
 <!-- 
 
 
