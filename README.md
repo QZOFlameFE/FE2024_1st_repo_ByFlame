@@ -419,6 +419,7 @@ Since LEGO platform have numerous limitations it would be better to switch on Ra
   <tr>
     <th align = center> Obstacle Management </th>
     <td> 
+      Choosing camera with greater resolution, better resistence to light changes and using AI technologies would improve the obtacle detection and avoidance. 
     </td>
   </tr>
 </table>
