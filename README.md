@@ -405,14 +405,14 @@ Since LEGO platform have numerous limitations it would be better to switch on Ra
       Mobility Management
     </th>
     <td>
-      Switch on own designed details and improving aerodynamics, diminishing the size, creating great  Ackermann Steering Geometry for smooth turns. Switching the wheels such as smaller the wheels of steering mechanism the smoother are the turns and smaller the turn radius. Bigger wheels on rear axle improves the speed but reduces the torque, as well as gears mechanism the greater the speed, the smaller the torque. Also selection of materials  
+      Switch on own designed details and improving aerodynamics, diminishing the size, creating great  Ackermann Steering Geometry for smooth turns. Switching the wheels such as smaller the wheels of steering mechanism the smoother are the turns and smaller the turn radius. Bigger wheels on rear axle improves the speed but reduces the torque, as well as gears mechanism the greater the speed, the smaller the torque. Also selection of wheels with better rubber will improve the traction and diminish slipping which is important for odometry base and sense management based on encoders. 
     </td>
   </tr>
     
   <tr>
     <th> Power and Sense Management </th>
     <td> 
-      
+      Using more advanced sensors with greater accuracy level and greater number of iterations per second will improve the sense management and trajectory control. The same is for motor selection, greater speed, traction, torque and accuracy of encoder values are closely related to the motor.
     </td>
   </tr>
       
