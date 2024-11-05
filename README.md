@@ -39,7 +39,6 @@ CONTENT
   * [Robot Photos](#robot-photos)
   * [Team Photos](#team-photos)
 * [**Performance videos**](#performance-videos)
-* [**Engineering factor**](#engineering-factor)
 * [**Code explanation**](#code-explanation)
 * [**Conclusion**](#conclusion)
   * [Limitations](#limitations)
