@@ -40,6 +40,10 @@ CONTENT
   * [Team Photos](#team-photos)
 * [**Performance videos**](#performance-videos)
 * [**Engineering factor**](#engineering-factor)
+* [**Code explanation**](#code-explanation)
+* [**Conclusion**](#conclusion)
+  * [**Limitations**](#limitations)
+  * [**Sugestions for further development**](#sugestions-for-further-development)
 # <hr/>
 <!-- 
 
