@@ -285,33 +285,33 @@ Pixy block for LEGO MINDSTORMS
   </th>
   <th width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions2.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_2.bmp)
   </th>
 </tr>
 <tr>
   <td width=50%>
     
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions3.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_3.bmp)
   </td>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions4.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_4.bmp)
   </td>
 </tr>
 <tr>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions5.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_5.bmp)
   </td>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions6.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_6.bmp)
   </td>
 </tr>
 <tr>
   <td width=50%>
   
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions.bmp7)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_7.bmp)
   </td>
 </tr>
 </table>
