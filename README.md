@@ -91,6 +91,7 @@ We have a differential in driving rear axle of our robot to make turns smoother.
   ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_10.bmp)
     </th>
   </tr>
+</table>
 Our robot's steering control construction
   </table>
 </th>
