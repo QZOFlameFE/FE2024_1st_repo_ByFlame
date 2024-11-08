@@ -23,7 +23,7 @@ The main parameters of the Pixymon are signature range, camera brightness, max b
 
 To view how Pixy2 camera track the block we click to "View" panel and then choose "blocks, video, detected pixels" mode. 
 
-Also it is important to set "Block Filtering" to zero, and remove "Saturation" tick in "Camera" panel because it slows down block detection
+Also it is important to set "Block Filtering" to zero, and remove "Saturation" tick in "Camera" panel because it slows down block detection and worsense camera's tolerans to light changes
 <table>
 <tr>
 <th width=800>
