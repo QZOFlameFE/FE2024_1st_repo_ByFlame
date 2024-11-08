@@ -365,7 +365,7 @@ Pixy block for LEGO MINDSTORMS
 
 
 ## Team Photos
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/tree/main/Team_photos)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/Team_photo.jpg)
 # <hr/>
 
 <!-- 
