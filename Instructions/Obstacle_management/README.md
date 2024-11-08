@@ -22,6 +22,8 @@ To set the pixy we click to "action" panel and "set signature" mode.
 The main parameters of the Pixymon are signature range, camera brightness, max blocks, max blocks per signature, min block area. 
 
 To view how Pixy2 camera track the block we click to "View" panel and then choose "blocks, video, detected pixels" mode. 
+
+Also it is important to set "block filtering" to zero, and remove "saturation" tick in "" panel because it slows down block detection
 <table>
 <tr>
 <th width=800>
