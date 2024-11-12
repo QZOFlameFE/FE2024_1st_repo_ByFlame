@@ -235,7 +235,8 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
 -->
 # Obstacle management
-  For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>. </br> </br>
+  For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>.We get x y coordinates from the Pixy camera by placing the robot on two points along the correct trajectory of robot (If the pillar is red, it should go around on the right, if it is green, on the left).From the obtained value (x,y coordinates) we calculate a linear function by two points (you can calculate it by the link:<a href="https://planetcalc.ru/8110/?ysclid=m0a3s77i4p794636345">linear function by two points</a>)
+  </br> </br>
 <table>
 <tr>
 <th width=500>
