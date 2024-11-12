@@ -235,7 +235,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
 -->
 # Obstacle management
-  For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>.We get x y coordinates from the Pixy camera by placing the robot on two points along the correct trajectory of robot (If the pillar is red, it should go around on the right, if it is green, on the left).From the obtained value (x,y coordinates) we calculate a linear function by two points (you can calculate it by the link: <a href="https://planetcalc.com/8110/?language_select=en&ysclid=m0a3s77i4p794636345">linear function by two points</a>
+  For the obstacle detection we used Pixy2 camera and PixyMon v2 application to configure it. To use it in LEGO MINDSTORMS application you need to install special library. All of the downloads are able in official site of Pixy2 <a href="https://pixycam.com/downloads-pixy2/">https://pixycam.com/downloads-pixy2/</a>.We get x y coordinates from the Pixy camera by placing the robot on two points along the correct trajectory of robot (If the pillar is red, it should go around on the right, if it is green, on the left).From the obtained value (x,y coordinates) we calculate a linear function by two points (you can calculate it by the link:) <a href="https://planetcalc.com/8110/?language_select=en&ysclid=m0a3s77i4p794636345">linear function by two points</a>
   </br> </br>
 <table>
 <tr>
@@ -256,7 +256,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
     
   ![linear function](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/linear_function.png)
 </table>
-To calculate linear function we use this site: <a href="https://planetcalc.ru/8110/?ysclid=m0a3s77i4p794636345">https://planetcalc.ru/8110/?ysclid=m0a3s77i4p794636345</a>.
+
 </br>
 <div align = center style="display: flex; flex-direction: column; align-items: center; justify-content: center; color: gray">
 
@@ -284,6 +284,32 @@ Pixy block for LEGO MINDSTORMS
 </tr>
 </table>
 </div>
+
+Pixy2 camera is a universal tool as it can work with EV3, arduino and raspberry. </br>
+For the work in LEGO MINDSTORMS application you need to install "pixy block".
+This block outputs: </br>
+Signature id with the highest value of y coordinate </br>
+camera's relative x coordinate of the object </br>
+camera's relative y coordinate of the object </br>
+relative width of the object </br>
+relative height of the object </br>
+angle of the object to camera </br>
+<table>
+<tr>
+<th width=400>
+  
+![Pixy2 block](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/Pixy2block.png)
+</th>
+</tr>
+</table>
+
+## Change of the driving direction
+We use relative Y coordinate to detect if the last signature is green or red. If the robot views siqnature and it's y coordinate is high it is saved in variable named "last sign". 
+## Parking position
+To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position.
+## Bypassing obstacles
+We use steering mechanism and pixy2 coordinates and connect them with linear function. So if the laps are close to robot linear function gives high values to steering mechanism's motor. 
+
 
   * [Pixy2 camera's configuration](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/README.md)
   * [Programm part for obstacle detection](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/Pixy_for_programm.md)
