@@ -91,7 +91,15 @@ Our robot's steering control construction
 Our robot's differential at rear axle
 <br>
 <br>
-dhdhhdh
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+(These photos were taken using the studio.02 app)
 </th>
 </tr>
 </table>
