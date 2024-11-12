@@ -89,16 +89,7 @@ Our robot's steering control construction
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_9.bmp)
 Our robot's differential at rear axle
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 (These photos were taken using the studio2.0 app)
 ###### the studio application provides the ability to make a robot design with any parts from many sets
 
@@ -143,13 +134,13 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
     ## Why did we choose EV3 P-Brick?
     <ul>
-    <li font size="10">Easy to use</li> <br>
-    The EV3 comes with graphical programming environment (LEGO Mindstorms EV3 software), and it makes it much easier. This visual approach is more accessible than writing code in languages like C++ (Arduino) or Python (Raspberry Pi).<br> <br>
-    <li>Integrated Hardware</li> <br>
-    EV3 comes with specialized LEGO motors and sensors (like color, infrared, and gyro), which are easy to connect and calibrate.<br> <br>
-    <li>Portability</li>
+    <li font size="10">EASY TO USE</li> <br>
+    The EV3 comes with graphical programming environment (LEGO Mindstorms EV3 software), and it makes it much easier. This visual approach is more accessible than writing code in languages like C++ (Arduino) or Python (Raspberry Pi).<br> <br><br>
+    <li>INTEGRATED HARDWARE</li> <br>
+    EV3 comes with specialized LEGO motors and sensors (like color, infrared, and gyro), which are easy to connect and calibrate.<br> <br><br>
+    <li>PORTABILITY</li>
     <br>
-    EV3 is more portable and compact,because it is designed for easy handling, and its components are built with the purpose of being assembled and taken apart for quick project changes. <br> <br>
+    EV3 is more portable and compact,because it is designed for easy handling, and its components are built with the purpose of being assembled and taken apart for quick project changes. <br> <br><br>
   ### Comparison with other popular controllers
   
   <table>
