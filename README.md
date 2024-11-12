@@ -305,11 +305,11 @@ This block outputs: </br>
 </table>
 
 ## Change of the driving direction
-We use relative Y coordinate to detect if the last signature is green or red. If the robot views siqnature and it's y coordinate is high it is saved in variable named "last sign". 
+We use Y coordinate(from pixy camera) and "turncount" (number of turns) to detect if the last signature is green or red. If the robot views siqnature in 3rd or 4th turns and it's y coordinate is high (the larger the y, the closer to the object)it is saved in variable named "last sign". 
 ## Parking position
-To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position.
+To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone.
 ## Bypassing obstacles
-We use steering mechanism and pixy2 coordinates and connect them with linear function. So if the laps are close to robot linear function gives high values to steering mechanism's motor. 
+We use steering mechanism and pixy2 coordinates and connect them with linear function. Y value from pixy2 gives how far the robot should be from the object, using a linear function. Using the obtained value and the real value X from pixy2, we can find an error and give this error to the steering mechanism. So if the pillar is close to robot linear function gives high values to steering mechanism's motor. 
 
 
   * [Pixy2 camera's configuration](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Obstacle_management/README.md)
