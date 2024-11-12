@@ -192,7 +192,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   <ul type="circle">
     <li> Block-programming makes hard to implement new features </li>
     <li> Buetooth connectivity can sometimes be challenging to configure </li>
-    <li>Limited number of sensor and sotor Ports</li>
+    <li>Limited number of sensor and motor Ports</li>
   </ul>
   </br>
   </br>
