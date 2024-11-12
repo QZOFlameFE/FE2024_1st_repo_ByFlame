@@ -143,7 +143,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
     ## Why did we choose EV3 P-Brick?
     <ul>
-    <li font size="4">Easy to use</li>
+    <li font size="10">Easy to use</li>
     fggfgfgf
   ### Comparison with other popular controllers
   
