@@ -89,11 +89,13 @@ Our robot's steering control construction
   
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_9.bmp)
 Our robot's differential at rear axle
-
+<br>
+<br>
+dhdhhdh
 </th>
 </tr>
 </table>
-ffdfffdg
+
 
 ### Weight distribution
   As our robot is a self-driving car with steering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.Also, we placed the EV3 P-Brick in the center of the robot to distribute the weight evenly, as the brick is a relatively heavy component(275g). Pixy camera is located quite behind the robot,that's why it don't maintain balance. To maintain balance, we used metal balls(you can see from instruction of our robot) from the Lego set and placed them in front of the robot. This way, we avoid the robot from wobbling.
