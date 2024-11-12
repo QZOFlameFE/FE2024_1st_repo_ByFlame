@@ -141,6 +141,10 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
   * [Electroschemes/wiring diagrams](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/README.md)
 
+    ## Why did we choose EV3 P-Brick?
+    <ul>
+    <li>Easy to use</li>
+    fggfgfgf
   ### Comparison with other popular controllers
   
   <table>
