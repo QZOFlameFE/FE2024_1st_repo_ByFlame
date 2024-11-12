@@ -286,14 +286,15 @@ Pixy block for LEGO MINDSTORMS
 </div>
 
 Pixy2 camera is a universal tool as it can work with EV3, arduino and raspberry. </br>
-For the work in LEGO MINDSTORMS application you need to install "pixy block".
+For the work in LEGO MINDSTORMS application you need to install "pixy block".<br>
 This block outputs: </br>
-Signature id with the highest value of y coordinate </br>
-camera's relative x coordinate of the object </br>
-camera's relative y coordinate of the object </br>
-relative width of the object </br>
-relative height of the object </br>
-angle of the object to camera </br>
+<ol>
+<li>Signature id with the highest value of y coordinate </li>
+<li>camera's relative x coordinate of the object </li>
+<li>camera's relative y coordinate of the object </li>
+<li>relative width of the object</li>
+<li>relative height of the object </li>
+<li>angle of the object to camera </li>
 <table>
 <tr>
 <th width=400>
