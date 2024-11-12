@@ -100,7 +100,7 @@ Our robot's differential at rear axle
 <br>
 <br>
 (These photos were taken using the studio.02 app)
-###### dhdfhdfhhfd
+###### the studio application provides the ability to make a robot design with any parts from many sets
 
 </th>
 </tr>
