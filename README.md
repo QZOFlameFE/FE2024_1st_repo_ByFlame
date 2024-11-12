@@ -99,7 +99,7 @@ Our robot's differential at rear axle
 <br>
 <br>
 <br>
-(These photos were taken using the studio.02 app)
+(These photos were taken using the studio2.0 app)
 ###### the studio application provides the ability to make a robot design with any parts from many sets
 
 </th>
@@ -129,7 +129,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 # <hr/>
 # Power and sense management </br>
 ## Power management </br>
-  The core of our robot is <a href="#https://pybricks.com/ev3-micropython/startbrick.html">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors.  Power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
+  The core of our robot is <a href="#https://pybricks.com/ev3-micropython/startbrick.html/">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors.  Power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
   <table>
 <tr>
 <th width=400>
