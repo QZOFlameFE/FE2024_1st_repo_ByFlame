@@ -35,7 +35,7 @@ CONTENT
   * [Sense Management](#sense-management)
   * [Power Management](#power-management)
 * [**Obstacle management**](#obstacle-management)
-  * [Change of the driving direction](#сhange-of-the-driving-direction)
+  * [Change of the driving direction](#change-of-the-driving-direction)
   * [Parking pasition](#parking-position)
   * [Bypassing obstacles](#bypassing-obstacles)
 * [**Pictures**](#pictures)
