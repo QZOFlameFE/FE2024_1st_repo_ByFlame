@@ -143,8 +143,13 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 
     ## Why did we choose EV3 P-Brick?
     <ul>
-    <li font size="10">Easy to use</li>
-    fggfgfgf
+    <li font size="10">Easy to use</li> <br>
+    The EV3 comes with graphical programming environment (LEGO Mindstorms EV3 software), and it makes it much easier. This visual approach is more accessible than writing code in languages like C++ (Arduino) or Python (Raspberry Pi).
+    <li>Integrated Hardware</li> <br>
+    EV3 comes with specialized LEGO motors and sensors (like color, infrared, and gyro), which are easy to connect and calibrate.
+    <li>Portability</li>
+    <br>
+    EV3 is more portable and compact,because it is designed for easy handling, and its components are built with the purpose of being assembled and taken apart for quick project changes. 
   ### Comparison with other popular controllers
   
   <table>
