@@ -189,9 +189,10 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   </table>
   
   ### Limitations of LEGO Mindstorms
-  <ul>
+  <ul type="circle">
     <li> Block-programming makes hard to implement new features </li>
-    <li>  </li>
+    <li> Buetooth connectivity can sometimes be challenging to configure </li>
+    <li>Limited number of sensor and sotor Ports</li>
   </ul>
   </br>
   </br>
