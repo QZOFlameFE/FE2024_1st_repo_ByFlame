@@ -452,30 +452,21 @@ First of all we align the steering wheels to the center, so the robot moves stra
   </tr>  
 -->
   <tr>
-   <td>
-      
-    </td>
-    
+   <td>  
+   </td>
     <td>
-    
     </td>
   </tr>  
     <tr>
    <td>
-      
     </td>
-    
     <td>
-    
     </td>
   </tr>  
-    <tr>
+  <tr>
    <td>
-      
-    </td>
-    
+   </td>  
     <td>
-    
     </td>
   </tr>  
 </table>
