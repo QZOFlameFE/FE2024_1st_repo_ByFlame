@@ -105,7 +105,7 @@ Our robot's differential at rear axle
   As our robot is a self-driving car with steering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.Also, we placed the EV3 P-Brick in the center of the robot to distribute the weight evenly, as the brick is a relatively heavy component(275g). Pixy camera is located quite behind the robot,that's why it don't maintain balance. To maintain balance, we used metal balls(you can see from instruction of our robot) from the Lego set and placed them in front of the robot. This way, we avoid the robot from wobbling.
   
 ### Camera position
-  Our camera places as much higher(25cm) and behind(7cm from center of the robot) as its possible for better view and obstacle control. It also inclined a bit down to view blocks that are close to robot and limit the view for better obstacle management.
+  Our camera places as much higher(28cm) and behind(7cm from center of the robot) as its possible for better view and obstacle control. It also inclined a bit down to view blocks that are close to robot and limit the view for better obstacle management. Also we use additional motor to rotate camera to the robot and so decrease the length of the robot in the end to full-park.   
 </div>
 
 ### Motor selection
@@ -442,29 +442,29 @@ First of all we align the steering wheels to the center, so the robot moves stra
 <table>
 <!--
   <tr>
-   <td>
-      
-    </td>
-    
     <td>
-    
+    </td>
+    <td>
     </td>
   </tr>  
 -->
   <tr>
    <td>  
+     EV3 P-Brick
    </td>
     <td>
     </td>
   </tr>  
     <tr>
-   <td>
+    <td>
+      EV3 sensors
     </td>
     <td>
     </td>
   </tr>  
   <tr>
    <td>
+     LEGO Technic components
    </td>  
     <td>
     </td>
