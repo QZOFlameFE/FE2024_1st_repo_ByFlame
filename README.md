@@ -288,9 +288,23 @@ Pixy block for LEGO MINDSTORMS
 </th>
 </tr>
 </table>
-</div>
+
 
 Pixy2 camera is a universal tool as it can work with EV3, arduino and raspberry. </br>
+<table>
+<tr>
+<th width=250>
+  
+![Pixy camera](https://github.com/user-attachments/assets/f9f93471-1b46-469d-9ef1-d752f6181133)
+<p> 
+Pixy camera
+</p>
+</th>
+</tr>
+</table>
+</div>
+
+
 For the work in LEGO MINDSTORMS application you need to install "pixy block".<br>
 This block outputs: </br>
 <ol>
@@ -309,14 +323,42 @@ This block outputs: </br>
 </tr>
 </table>
 
-## Change of the driving direction
-We use Y coordinate(from pixy camera) and "turncount" (number of turns) to detect if the last signature is green or red. If the robot views siqnature in 3rd or 4th turns and it's y coordinate is high (the larger the y, the closer to the object)it is saved in variable named "last sign". 
-## Parking position
-To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone.
-## Bypassing obstacles
+## Automatic control
+The robot's trajectory is determined by two main situations: <br>
+<ul>
+  <li>
+    when pixy camera sees a road sign
+  </li>
+  <li>
+    when pixy camera does not see road sign
+  </li>
+</ul> <br>
+
+### Bypassing obstacles (when pixy camera sees a road sign)
 We use steering mechanism and pixy2 coordinates and connect them with linear function. Y value from pixy2 gives how far the robot should be from the object, using a linear function. Using the obtained value and the real value X from pixy2, we can find an error and give this error to the steering mechanism. So if the pillar is close to robot linear function gives high values to steering mechanism's motor. <br>
 
 https://github.com/user-attachments/assets/eb8f1eea-5bec-42ee-9bcd-57115f89046b
+### Align center (when pixy camera does not see road sign)
+Our robot aligns itself with the center of the road when it doesn't see an object, so as not to crash into parking spaces or miss a road sign. To center the robot, it uses odometry. The module x coordinate of the center of the road is equal to 100 (x is 100 or -100) because the robot uses full odometry (the center coordinate (0;0) is the center of the map) <br>
+<table>
+<tr>
+<th width=250>
+  
+![Pixy camera](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/absolute_odometry_principle.png)
+<p> 
+Full odometry
+</p>
+</th>
+</tr>
+</table>
+</div>
+It determines the error between the coordinate of the robot and the center of the road and is given to the steering mechanism so that it aligns itself to the center.
+
+## Change of the driving direction
+We use Y coordinate(from pixy camera) and "turncount" (number of turns) to detect if the last signature is green or red. If the robot views siqnature in 3rd or 4th turns and it's y coordinate is high (the larger the y, the closer to the object)it is saved in variable named "last sign". If the last signature is red, then in the program the variable clock wise (robot direction) will change to the opposite value.
+## Parking position
+To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone.
+
 
 
 
