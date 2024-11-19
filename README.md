@@ -356,6 +356,8 @@ It determines the error between the coordinate of the robot and the center of th
 
 ## Change of the driving direction
 We use Y coordinate(from pixy camera) and "turncount" (number of turns) to detect if the last signature is green or red. If the robot views siqnature in 3rd or 4th turns and it's y coordinate is high (the larger the y, the closer to the object)it is saved in variable named "last sign". If the last signature is red, then in the program the variable clock wise (robot direction) will change to the opposite value.
+
+https://github.com/user-attachments/assets/1de04d15-6deb-4d60-b6fd-9dd9605af7f4
 ## Parking position
 To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone.
 
