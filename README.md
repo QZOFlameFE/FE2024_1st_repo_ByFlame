@@ -412,7 +412,12 @@ We use steering mechanism and pixy2 coordinates and connect them with linear fun
 
 ## Team Photos
 ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/Team_photo.jpg)
+</br>
+</br>
+#
+
 <a href="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/fun-photos/fun_photos_and_work.MD"> Funny photos and working process </a>
+
 # <hr/>
 
 <!-- 
