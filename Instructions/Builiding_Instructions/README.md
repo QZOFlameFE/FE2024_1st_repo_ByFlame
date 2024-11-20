@@ -90,19 +90,11 @@
   </td>
   </tr>
     <tr>
-    <td> 60484; Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
-    <td> 11 </td>
-    <td>
-
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
-  </td>
-  </tr>
-    <tr>
     <td> 2780; Technic, Pin with Short Friction Ridges </td>
     <td> 23 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_15.bmp)
   </td>
   </tr>
     <tr>
@@ -110,7 +102,7 @@
     <td> 30 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_17.bmp)
   </td>
   </tr>
     <tr>
@@ -118,7 +110,7 @@
     <td> 6 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_29.bmp)
   </td>
   </tr>
     <tr>
@@ -130,19 +122,11 @@
   </td>
   </tr>
     <tr>
-    <td> 87082: Technic, Pin 3L with Friction Ridges and Center Pin Hole </td>
-    <td> 12 </td>
-    <td>
-
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
-  </td>
-  </tr>
-    <tr>
     <td> 3749: Technic, Axle 1L with Pin without Friction Ridges </td>
     <td> 2 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_43.bmp)
   </td>
   </tr>
     <tr>
@@ -154,19 +138,11 @@
   </td>
   </tr>
     <tr>
-    <td> 60484: Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
-    <td> 11 </td>
-    <td>
-
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
-  </td>
-  </tr>
-    <tr>
     <td> 11478: Technic, Liftarm Thin 1 x 5 - Axle Holes </td>
     <td> 1 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_41.bmp)
   </td>
   </tr>
     <tr>
@@ -174,7 +150,7 @@
     <td> 1 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_42.bmp)
   </td>
   </tr>
     <tr>
@@ -182,15 +158,7 @@
     <td> 11 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
-  </td>
-  </tr>
-    <tr>
-    <td> 87083: Technic, Axle 4L with Stop </td>
-    <td> 3 </td>
-    <td>
-
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_37.bmp)
   </td>
   </tr>
     <tr>
