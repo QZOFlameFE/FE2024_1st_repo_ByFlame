@@ -31,9 +31,10 @@ CONTENT
   * [Weight distribution](#weight-distribution)
   * [Camera position](#camera-position)
   * [Motor selection](#motor-selection)
-* [**Power and sense management**](#Power-and-sense-management)
+* [****](#power-and-sense-management)
   * [Sense Management](#sense-management)
   * [Power Management](#power-management)
+  * [Limitations of LEGO Mindstorms](#limitations-of-lego-mindstorms)
 * [**Obstacle management**](#obstacle-management)
   * [Change of the driving direction](#change-of-the-driving-direction)
   * [Parking pasition](#parking-position)
@@ -124,6 +125,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
    * [Building Instructions](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/README.md)
    * [3D model of Pixy Camera_Case](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/3D_models/README.md) <br> (used application AutoCAD)
 # <hr/>
+
 # Power and sense management </br>
 ## Power management </br>
   The core of our robot is <a href="https://pybricks.com/ev3-micropython/startbrick.html">EV3 Programmable Brick</a>, the power comes from a rechargable 10V Lithium Battery. EV3 P-Brick have 4 ports for motors and 4 ports for sensors.  Power consumption of motors and sensors: <a href="https://www.dexterindustries.com/ev3-current-consumption-measurement/">https://www.dexterindustries.com/ev3-current-consumption-measurement/</a>.
