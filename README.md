@@ -31,7 +31,7 @@ CONTENT
   * [Weight distribution](#weight-distribution)
   * [Camera position](#camera-position)
   * [Motor selection](#motor-selection)
-* [**Power and Sense Management**](#power-and-sense-management)
+* [**Power and sense management**](#Power-and-sense-management)
   * [Sense Management](#sense-management)
   * [Power Management](#power-management)
 * [**Obstacle management**](#obstacle-management)
