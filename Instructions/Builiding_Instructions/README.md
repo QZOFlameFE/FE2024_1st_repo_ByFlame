@@ -24,6 +24,10 @@
   <tr>
     <td> 60484: Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
     <td> 11 </td>
+    <td>
+
+ ![Technic T-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_20.bmp)
+  </td>
   </tr>
     <tr>
     <td> 43093: Technic, Axle 1L with Pin with Friction Ridges </td>
