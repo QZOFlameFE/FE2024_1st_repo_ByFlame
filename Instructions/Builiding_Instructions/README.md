@@ -94,7 +94,7 @@
     <td> 11 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -102,7 +102,7 @@
     <td> 23 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -110,7 +110,7 @@
     <td> 30 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -118,7 +118,7 @@
     <td> 6 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -126,7 +126,7 @@
     <td> 13 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -134,7 +134,7 @@
     <td> 12 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -142,7 +142,7 @@
     <td> 2 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -150,7 +150,7 @@
     <td> 12 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -158,7 +158,7 @@
     <td> 11 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -166,7 +166,7 @@
     <td> 1 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -174,7 +174,7 @@
     <td> 1 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -182,7 +182,7 @@
     <td> 11 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -190,7 +190,7 @@
     <td> 3 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -206,7 +206,7 @@
     <td> 3 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_19.bmp)
   </td>
   </tr>
     <tr>
@@ -214,7 +214,7 @@
     <td> 8 </td>
     <td>
 
-![Technic ]()
+![Technic ](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -230,7 +230,7 @@
     <td> 1 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_12.bmp)
   </td>
   </tr>
     <tr>
@@ -256,7 +256,7 @@
     <td> 13 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_13.bmp)
   </td>
   </tr>
     <tr>
@@ -272,7 +272,7 @@
     <td> 2 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_11.bmp)
   </td>
   </tr>
     <tr>
@@ -280,7 +280,7 @@
     <td> 2 </td>
     <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_10.bmp)
   </td>
   </tr>
  <tr>
@@ -288,19 +288,23 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
  </tr>
   <tr>
    <td> 60485: Technic, Axle 9L </td>
    <td> 1 </td>
+    <td>
+
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+  </td>
  </tr>
   <tr>
    <td> 3713: Technic Bush </td>
    <td> 5 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_40.bmp)
   </td>
  </tr>
   <tr>
@@ -308,7 +312,7 @@
    <td> 1 </td>
    <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_25.bmp)
   </td>
  </tr>
   <tr>
@@ -316,7 +320,7 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_32.bmp)
   </td>
  </tr>
   <tr>
@@ -324,7 +328,7 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_31.bmp)
   </td>
  </tr>
   <tr>
@@ -332,23 +336,16 @@
    <td> 4 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_30.bmp)
   </td>
  </tr>
  <tr>
-   <td> 32316: Technic, Liftarm Thick 1 x 5 </td>
-   <td> 8 </td>
-  <td>
-
- ![]()
-  </td>
- </tr>
   <tr>
    <td> 32523: Technic, Liftarm Thick 1 x 3 </td>
    <td> 10 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_22.bmp)
   </td>
  </tr>
   <tr>
@@ -356,7 +353,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_38.bmp)
   </td>
  </tr>
   <tr>
@@ -364,7 +361,7 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
  </tr>
   <tr>
@@ -372,7 +369,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_9.bmp)
   </td>
  </tr>
   <tr>
@@ -380,7 +377,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_21.bmp)
   </td>
  </tr>
   <tr>
@@ -388,7 +385,7 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_35.bmp)
   </td>
  </tr>
   <tr>
@@ -396,23 +393,16 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_27.bmp)
   </td>
  </tr>
-  <tr>
-   <td> 39367hb01: Wheel 56 x 14 Technic with Axle Hole and 8 Pin Holes with Molded Medium Azure Hard Rubber Tire Pattern </td>
-   <td> 2 </td>
-  <td>
-
- ![]()
-  </td>
- </tr>
+ 
  <tr>
    <td> x346: Bionicle 1 x 3 Tooth with Axle Hole (Bohrok Eye) </td>
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_23.bmp)
   </td>
  </tr>
   <tr>
@@ -420,7 +410,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_26.bmp)
   </td>
  </tr>
   <tr>
@@ -428,7 +418,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_34.bmp)
   </td>
  </tr>
   <tr>
@@ -436,7 +426,7 @@
    <td> 2 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_33.bmp)
   </td>
  </tr>
   <tr>
@@ -444,7 +434,7 @@
    <td> 1 </td>
   <td>
 
- ![]()
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_28.bmp)
   </td>
  </tr>
   <tr>
@@ -452,7 +442,7 @@
    <td> 6 </td>
   <td>
 
- ![]()
+ ![alt](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_5.bmp)
   </td>
  </tr>
 </table>
