@@ -126,7 +126,7 @@
     <td> 12 </td>
     <td>
 
- ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions/holder.bmp)
   </td>
   </tr>
     <tr>
