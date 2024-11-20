@@ -16,6 +16,10 @@
   <tr>
     <td> 64179: Technic, Liftarm, Modified Frame Thick 5 x 7 Open Center </td>
     <td> 3 </td>
+    <td>
+
+ ![Technic frame 2](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_12.bmp)
+  </td>
   </tr>
   <tr>
     <td> 60484: Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
