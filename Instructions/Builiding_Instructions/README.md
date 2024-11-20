@@ -4,7 +4,7 @@
     <td> 2 </td>
     <td> 
     
-  ![rear axle wheels}(https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions.bmp)
+  ![rear axle wheels](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions.bmp)
     </td>
   </tr>
 
