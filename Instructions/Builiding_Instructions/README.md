@@ -26,7 +26,7 @@
     <td> 11 </td>
     <td>
 
- ![Technic T-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_20.bmp)
+ ![Technic T-shape]()
   </td>
   </tr>
     <tr>
@@ -52,6 +52,10 @@
     <tr>
     <td> 32140: Technic, Liftarm, Modified Bent Thick L-Shape 2x4 </td>
     <td> 6 </td>
+    <td>
+      
+  ![Technic L-shape 2 x 4](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_20.bmp)
+  </td>
   </tr>
     <tr>
     <td> 87082: Technic, Pin 3L with Friction Ridges and Center Pin Hole </td>
