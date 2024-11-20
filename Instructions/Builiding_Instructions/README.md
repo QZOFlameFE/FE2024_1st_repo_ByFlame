@@ -11,6 +11,10 @@
   <tr>
     <td> 89201: Tire 24 x 14 Shallow Tread </td>
     <td> 2 </td>
+    <td> 
+    
+  ![steering wheel](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_8.bmp)
+    </td>
   </tr>
 
   <tr>
