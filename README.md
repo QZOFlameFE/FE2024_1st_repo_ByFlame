@@ -369,7 +369,26 @@ We use Y coordinate(from pixy camera) and "turncount" (number of turns) to detec
 
 https://github.com/user-attachments/assets/1de04d15-6deb-4d60-b6fd-9dd9605af7f4
 ## Parking position
-To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone.
+
+We use ultrasonic sensor for precise parking, but since we only have one ultrasonic, we will have to make a U-turn if the robot's direction is clockwise, so the parking process consists of 3 steps:
+<ul>
+  <li>Make a turn</li>
+  <li>Search for a parking zone </li>
+  <li> park in the zone</li>
+</ul>
+<br>
+
+### Make a turn 
+our robot makes a turn if the robot moves clockwise so that the ultrasonic looks at the outer border
+
+### Search for a parking zone
+Our robot should move parallel to the outer side until it sees the parking zone. To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone. When the robot sees a parking zone, it approaches it, using a pixy camera.
+
+### park in the zone
+To park accurately, an ultrasonic sensor is used, when this sensor notices a parking wall, the robot stops and enters the parking zone.
+<br>
+<br>
+*Most tasks are performed using a pixy camera, here you can see how to set up this camera*
 
 
 
