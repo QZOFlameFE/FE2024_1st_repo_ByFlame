@@ -130,7 +130,7 @@
     <td> 9 </td>
     <td>
 
-![Technic 1/2 Buch](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_18.bmp)
+![Technic 1/2 Buch](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/1__2_bush.bmp)
   </td>
   </tr>
     <tr>
