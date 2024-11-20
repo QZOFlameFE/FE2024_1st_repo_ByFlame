@@ -22,7 +22,7 @@
     <td> 3 </td>
     <td>
 
- ![Technic frame 2](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_12.bmp)
+ ![Technic frame 2](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_36.bmp)
   </td>
   </tr>
   <tr>
@@ -68,66 +68,130 @@
     <tr>
     <td> 87082: Technic, Pin 3L with Friction Ridges and Center Pin Hole </td>
     <td> 12 </td>
+    <td>
+
+ ![Technic frame to 1](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_24.bmp)
+  </td>
   </tr>
     <tr>
     <td> 3749: Technic, Axle 1L with Pin without Friction Ridges </td>
     <td> 2 </td>
+    <td>
+
+ ![Technic Axle and Pin brown](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_43.bmp)
+  </td>
   </tr>
     <tr>
     <td> 48989: Technic, Pin Connector Perpendicular 3L with 4 Pins </td>
     <td> 12 </td>
+    <td>
+
+ ![Technic Frame to 3](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_14.bmp)
+  </td>
   </tr>
     <tr>
     <td> 60484; Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
     <td> 11 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 2780; Technic, Pin with Short Friction Ridges </td>
     <td> 23 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 6558; Technic, Pin 3L with Friction Ridges </td>
     <td> 30 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32184; Technic, Axle and Pin Connector Perpendicular 3L with Center Pin Hole </td>
     <td> 6 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32526: Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 </td>
     <td> 13 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 87082: Technic, Pin 3L with Friction Ridges and Center Pin Hole </td>
     <td> 12 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 3749: Technic, Axle 1L with Pin without Friction Ridges </td>
     <td> 2 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 48989: Technic, Pin Connector Perpendicular 3L with 4 Pins </td>
     <td> 12 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 60484: Technic, Liftarm, Modified T-Shape Thick 3 x 3 </td>
     <td> 11 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 11478: Technic, Liftarm Thin 1 x 5 - Axle Holes </td>
     <td> 1 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32062: Technic, Axle 2L Notched </td>
     <td> 1 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 4519: Technic, Axle 3L </td>
     <td> 11 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 87083: Technic, Axle 4L with Stop </td>
     <td> 3 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 4265c; Technic Bush 1/2 Smooth </td>
@@ -140,6 +204,10 @@
     <tr>
     <td> 87083: Technic, Axle 4L with Stop </td>
     <td> 3 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32524: Technic, Liftarm Thick 1 x 7 </td>
@@ -160,6 +228,10 @@
     <tr>
     <td> 64178: Technic, Liftarm, Modified Frame Thick 5 x 11 Open Center </td>
     <td> 1 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 95650: Electric Sensor, Color - EV3 </td>
@@ -182,6 +254,10 @@
     <tr>
     <td> 55615: Technic, Pin Connector Perpendicular 3 x 3 Bent with 4 Pins </td>
     <td> 13 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32525: Technic, Liftarm Thick 1 x 11 </td>
@@ -194,14 +270,26 @@
     <tr>
     <td> 32348: Technic, Liftarm, Modified Bent Thick 1 x 7 (4 - 4) </td>
     <td> 2 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
     <tr>
     <td> 32009: Technic, Liftarm, Modified Bent Thick 1 x 11.5 Double </td>
     <td> 2 </td>
+    <td>
+
+ ![]()
+  </td>
   </tr>
  <tr>
    <td> 6629: Technic, Liftarm, Modified Bent Thick 1 x 9 (6 - 4) </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 60485: Technic, Axle 9L </td>
@@ -210,82 +298,162 @@
   <tr>
    <td> 3713: Technic Bush </td>
    <td> 5 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 3708: Technic, Axle 12L </td>
    <td> 1 </td>
+   <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 87408: Technic, Pin Connector Toggle Joint Smooth Double with Axle and Pin Holes </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 32198: Technic, Gear 20 Tooth Bevel </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 6589: Technic, Gear 12 Tooth Bevel </td>
    <td> 4 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
  <tr>
    <td> 32316: Technic, Liftarm Thick 1 x 5 </td>
    <td> 8 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 32523: Technic, Liftarm Thick 1 x 3 </td>
    <td> 10 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 32039: Technic, Axle Connector with Axle Hole </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 95652: Electric Sensor, Ultrasonic - EV3 </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 92911: Technic, Steering Ball Joint Large Receptacle </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 3648: Technic, Gear 24 Tooth with 1 Axle Hole </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 10928: Technic, Gear 8 Tooth with Dual Face </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 32269: Technic, Gear 20 Tooth Double Bevel </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 39367hb01: Wheel 56 x 14 Technic with Axle Hole and 8 Pin Holes with Molded Medium Azure Hard Rubber Tire Pattern </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
  <tr>
    <td> x346: Bionicle 1 x 3 Tooth with Axle Hole (Bohrok Eye) </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 3705: Technic, Axle 4L </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 6538: Technic, Axle Connector 2L (Smooth with x Hole + Orientation) </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 6587: Technic, Axle 3L with Stud </td>
    <td> 2 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 62821: Technic, Gear Differential 28 Tooth Bevel - Inner Tabs with Closed Center </td>
    <td> 1 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
   <tr>
    <td> 32184: Technic, Axle and Pin Connector Perpendicular 3L with Center Pin Holes </td>
    <td> 6 </td>
+  <td>
+
+ ![]()
+  </td>
  </tr>
 </table>
 
