@@ -120,7 +120,7 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
 </br>
   The explanation of our construction design is on our youtube channel <a href="https://www.youtube.com/channel/UC0_5yZ2aPdJc0X5wtIw4ZcA">"QZO Flame" (tag: @QZOFlame)</a>.
    
-   * [Building Instructions](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/README.md)
+   * [Building Instructions and BOM](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/README.md)
    * [3D model of Pixy Camera_Case](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/3D_models/README.md) <br> (used application AutoCAD)
 # <hr/>
 
@@ -501,39 +501,6 @@ The code is written in LEGO MINDSTORMS block programming language and you can do
 
 First of all we align the steering wheels to the center, so the robot moves straightforward. Then in configuration we set app all of the variables with specific values and using the bug of LEGO MINDSTORMS we reset the values of gyro sensor. Then our programm splits into 3 streams, first for robot control, 2nd for taking the values of Pixy2 camera into variables for obstacle management and the 3rd is for taking the values of UART sensors that are LEGO sensors and using the logic to determine the line color and round direction, activating the logic flag for turn, also the PID regulator of steering control is managed. Dividing the code into 3 streams is necessary for LEGO platform because ..... All of the key principles are in the 1st stream. This stream used for robot control and is responsible for the aligning to the center and to detour the obstacles. After that the main stream ends a loop for 3 laps and starts the parking.
 
-# BOM [Bill Of Materials]
-
-<table>
-<!--
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>  
--->
-  <tr>
-   <td>  
-     EV3 P-Brick
-   </td>
-    <td>
-    </td>
-  </tr>  
-    <tr>
-    <td>
-      EV3 sensors
-    </td>
-    <td>
-    </td>
-  </tr>  
-  <tr>
-   <td>
-     LEGO Technic components
-   </td>  
-    <td>
-    </td>
-  </tr>  
-</table>
 
 # Conclusion
 ## Limitations
