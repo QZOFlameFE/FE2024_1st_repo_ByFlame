@@ -36,6 +36,10 @@
     <tr>
     <td> 32526: Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 </td>
     <td> 13 </td>
+    <td>
+
+![Technic L-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_44.bmp)
+  </td>
   </tr>
     <tr>
     <td> 32316: Technic, Liftarm Thick 1 x 5 </td>
