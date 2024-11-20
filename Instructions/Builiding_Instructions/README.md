@@ -13,7 +13,7 @@
     <td> 2 </td>
     <td> 
     
-  ![steering wheel](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_8.bmp)
+  ![steering wheel](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_7.bmp)
     </td>
   </tr>
 
