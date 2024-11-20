@@ -30,7 +30,7 @@
     <td> 11 </td>
     <td>
 
- ![Technic T-shape]()
+ ![Technic T-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_20.bmp)
   </td>
   </tr>
     <tr>
@@ -46,7 +46,7 @@
     <td> 13 </td>
     <td>
 
-![Technic L-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_44.bmp)
+![Technic L-shape](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_.bmp)
   </td>
   </tr>
     <tr>
@@ -62,7 +62,7 @@
     <td> 6 </td>
     <td>
       
-  ![Technic L-shape 2 x 4](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_20.bmp)
+  ![Technic L-shape 2 x 4](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_44.bmp)
   </td>
   </tr>
     <tr>
