@@ -48,6 +48,10 @@
     <tr>
     <td> 32316: Technic, Liftarm Thick 1 x 5 </td>
     <td> 8 </td>
+    <td>
+
+![Technic 1 x 5](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_45.bmp)
+  </td>
   </tr>
     <tr>
     <td> 32140: Technic, Liftarm, Modified Bent Thick L-Shape 2x4 </td>
@@ -90,14 +94,6 @@
     <td> 13 </td>
   </tr>
     <tr>
-    <td> 32316: Technic, Liftarm Thick 1 x 5 </td>
-    <td> 8 </td>
-  </tr>
-    <tr>
-    <td> 32140: Technic, Liftarm, Modified Bent Thick L-Shape 2x4 </td>
-    <td> 6 </td>
-  </tr>
-    <tr>
     <td> 87082: Technic, Pin 3L with Friction Ridges and Center Pin Hole </td>
     <td> 12 </td>
   </tr>
@@ -132,6 +128,10 @@
     <tr>
     <td> 4265c; Technic Bush 1/2 Smooth </td>
     <td> 9 </td>
+    <td>
+
+![Technic 1/2 Buch](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_18.bmp)
+  </td>
   </tr>
     <tr>
     <td> 87083: Technic, Axle 4L with Stop </td>
@@ -140,10 +140,18 @@
     <tr>
     <td> 32524: Technic, Liftarm Thick 1 x 7 </td>
     <td> 8 </td>
+    <td>
+
+![Technic ]()
+  </td>
   </tr>
     <tr>
     <td> 99455: Electric, Motor EV3, Medium </td>
     <td> 4 </td>
+    <td>
+
+![EV3 medium motor](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_5.bmp)
+  </td>
   </tr>
     <tr>
     <td> 64178: Technic, Liftarm, Modified Frame Thick 5 x 11 Open Center </td>
@@ -151,12 +159,20 @@
   </tr>
     <tr>
     <td> 95650: Electric Sensor, Color - EV3 </td>
-    <td> 2 </td>
+    <td> 2 </td>    
+    <td>
+
+![EV3 color sensor](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_3.bmp)
+  </td>
   </tr>
     </tr>
     <tr>
     <td> 32278: Technic, Liftarm Thick 1 x 15 </td>
     <td> 4 </td>
+    <td>
+
+![Technic 1 x 15](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_46.bmp)
+  </td>
   </tr>
     </tr>
     <tr>
@@ -166,6 +182,10 @@
     <tr>
     <td> 32525: Technic, Liftarm Thick 1 x 11 </td>
     <td> 7 </td>
+    <td>
+
+![Technic 1 x 11](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_47.bmp)
+  </td>
   </tr>
     <tr>
     <td> 32348: Technic, Liftarm, Modified Bent Thick 1 x 7 (4 - 4) </td>
