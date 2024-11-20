@@ -90,14 +90,6 @@
   </td>
   </tr>
     <tr>
-    <td> 48989: Technic, Pin Connector Perpendicular 3L with 4 Pins </td>
-    <td> 12 </td>
-    <td>
-
- ![Technic Frame to 3](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_14.bmp)
-  </td>
-  </tr>
-    <tr>
     <td> 2780; Technic, Pin with Short Friction Ridges </td>
     <td> 23 </td>
     <td>
