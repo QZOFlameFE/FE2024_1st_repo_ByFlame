@@ -36,10 +36,18 @@
     <tr>
     <td> 43093: Technic, Axle 1L with Pin with Friction Ridges </td>
     <td> 15 </td>
+    <td>
+
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_18.bmp)
+  </td>
   </tr>
   <tr>
     <td> 32184; Technic, Axle and Pin Connector Perpendicular 3L with Center Pin Hole </td>
     <td> 6 </td>
+    <td>
+
+ ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_29.bmp)
+  </td>
   </tr>
     <tr>
     <td> 32526: Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 </td>
