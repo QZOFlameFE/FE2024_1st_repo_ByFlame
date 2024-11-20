@@ -105,7 +105,7 @@
  ![](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Builiding_Instructions/QZO_Flame_Building_Instructions_29.bmp)
   </td>
   </tr>
-    <tr>
+  <tr>
     <td> 32526: Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5 </td>
     <td> 13 </td>
     <td>
