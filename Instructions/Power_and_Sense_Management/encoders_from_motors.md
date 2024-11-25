@@ -3,7 +3,9 @@
 <p>electroscheme: <a href="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/99455%20Medium%20motor.pdf">https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/95650%20Color%20sensor.pdf</a> </p> 
 <p>Encoder LEGO MINDSTORMS block instruction: <a href="https://ev3-help-online.api.education.lego.com/Education/en-us/page.html?Path=blocks%2FLEGO%2FRotationSensor.html">https://ev3-help-online.api.education.lego.com/Education/en-us/page.html?Path=blocks%2FLEGO%2FRotationSensor.html</a> </p>
 </div>
-Encoders are used for calculating the distance that robot moved. In programm they are used to know if the robot is in finish zone. They play significant role in driving and the steering control. PID regulator works by the encoder of steering. Also before the start robot fixes it steering for making perfect initial position as it is important for odometry.
+Encoders are used for calculating the distance that robot moved. The LEGO EV3 encoders, integrated within the motors, are significant for precise motion control. They measure shaft rotations in degrees and rotations, offering real-time feedback essential for closed-loop systems like PID controllers. This ensures accurate distance tracking, speed regulation, and smooth directional changes. Compared to optical encoders, which provide higher resolution but require external mounting, and magnetic encoders, known for robustness in harsh environments, LEGO encoders prioritize simplicity, reliability and integration. </br>
+
+In programm they are used to know if the robot is in finish zone. They play significant role in driving and the steering control. PID regulator works by the encoder of steering. Also before the start robot fixes it steering for making perfect initial position as it is important for odometry.
 </br>
 The odometry is based on encoders in combine with gyro sensor. Detailed information is in the <a href="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/odometry.md">odometry</a> section.
 
