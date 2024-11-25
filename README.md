@@ -165,7 +165,10 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
     <li>PORTABILITY</li>
     <br>
     EV3 is more portable and compact,because it is designed for easy handling, and its components are built with the purpose of being assembled and taken apart for quick project changes. <br> <br><br>
-    
+ 
+  ### EV3 P-Brick Energy distribution
+  EV3 P-Brick have 4 ports for sensors and motors and all of them distributes and contributes most of the energy resources. While LEGO sensors contribute as much energy as they need by built-in control systems and framework abilities, varying between number of iteration per second, energy consumption and framework and IDE's abilities to proceed amount of data. Then the motors energy distribution is often regulated by control algorythms and values given in the programm, consequentlyleading to smart energy distribution to provide enough power and maintain accuratte readings without overloading.
+  
   ### Comparison with other popular controllers
   
   <table>
