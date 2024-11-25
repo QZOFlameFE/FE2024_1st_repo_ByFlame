@@ -4,7 +4,6 @@
 <p>EV3 Ultrasonic Sensor(Serial Number: 45504-1)</p>
 <p>electroscheme: <a href="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/95652%20Ultrasonic%20sensor.pdf">https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/schemes/95652%20Ultrasonic%20sensor.pdf</a> </p> 
 <p>Ultrasonic sensor LEGO MINDSTORMS block instruction: <a href="https://ev3-help-online.api.education.lego.com/Education/en-us/page.html?Path=blocks%2FLEGO%2FUltrasonicSensor.html">https://ev3-help-online.api.education.lego.com/Education/en-us/page.html?Path=blocks%2FLEGO%2FUltrasonicSensor.html</a> </p>
-[]()
 </div>
 Ultrasonic sensor is used to determine relative odometry as it counts the distance between robot and the wall.
 </br>
