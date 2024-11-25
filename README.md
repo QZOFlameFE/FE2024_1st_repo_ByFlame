@@ -112,7 +112,11 @@ Our robot's differential at rear axle
 
 ### Motor selection
   We have a choice between 2 types of LEGO motors: large motor and medium motor, the large motor is powerful but the speed is lower, the medium motor is not that powerful but have a great speed. The comparison can be viewed by this link: <a href="https://www.eurobricks.com/forum/index.php?/forums/topic/87670-ev3-large-and-medium-motors-comparison/">https://www.eurobricks.com/forum/index.php?/forums/topic/87670-ev3-large-and-medium-motors-comparison/</a>. According to <a href="https://www.researchgate.net/publication/345182894_Dynamic_analysis_modeling_and_control_of_the_LEGO_EV3_modular_mobile_platform">research:</a> 
-  
+
+### Bypassing obstacles
+The Pixy camera is used to detect obstacles and it captures visual data like X and Y coordinates, signature and processes it to identify objects. Once an obstacle is detected, the camera's data used to manipulate robot’s steering system. By specific formula that uses 3 parameters(signature, X and Y coordinate) values are setted and then transmitted to PID regulator of steering mechanism by setting proportional, integral, and derivative values to smoothly navigate around the obstacles. This approach allows the robot to bypass obstacles in real-time, improving its mobility and efficiency in dynamically.
+
+
 * Large servo motor (actuator) - maximum operating speed of 170 rpm, torque of 0.2 Nm and stopping torque of 0.4 Nm. It is positioned in the engine case an integrated encoder, a rotation meter, whose step is 1 degree of rotation and least sampling time 0.001 s.Also the power and speed is regulated by gear wheels and the size of the wheels. We choosed smaller wheels in steering mechanism because they do not move the robot, the only moves its trajectory.
 * Medium-size servo motor - maximum speed of 250 rpm, running torque 0.08 Nm and stopping torque of 0.12 Nm, also with integrated encoder, identical to that of a large engine.
 </br>
