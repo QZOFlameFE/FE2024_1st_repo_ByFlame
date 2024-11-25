@@ -110,6 +110,12 @@ Our robot's differential at rear axle
   Our camera places as much higher(28cm) and behind(7cm from center of the robot) as its possible for better view and obstacle control. It also inclined a bit down to view blocks that are close to robot and limit the view for better obstacle management. Also we use additional motor to rotate camera to the robot and so decrease the length of the robot in the end to full-park.   
 </div>
 
+### Gyro sensor PD regulator and turns, angular rotation
+LEGO EV3 Gyro Sensor is used to measure the angular rotation of the robot, allowing precise detection of turns. This data is fed into a PD regulator (Proportional-Derivative regulator), which ensures smoother control during turns, such as achieving an exact 90-degree rotation.  Change in the PD coefficients with dependence to the steering and its PID regulator enhances the robot’s maneuverability. Additionally, the gyro sensor is a significant part in the robot’s odometry system, providing opportunities to track its orientation and improve overall navigation accuracy.
+
+### Steering control
+The PID regulator controls the steering mechanism by setting a specific variable called “aim”, which represents the target position or direction. The PID controller is used to set the steering motor encoder and compare its current position to the value of “aim.” Based on this comparison, the PID algorithm sets the motor’s movement to smoothly align the steering mechanism with the desired direction. This ensures precise and stable control over the robot’s steering, allowing it to maintain accurate and smooth maneuvers during operation.
+
 ### Bypassing obstacles
 The Pixy camera is used to detect obstacles and it captures visual data like X and Y coordinates, signature and processes it to identify objects. Once an obstacle is detected, the camera's data used to manipulate robot’s steering system. By specific formula that uses 3 parameters(signature, X and Y coordinate) values are setted and then transmitted to PID regulator of steering mechanism by setting proportional, integral, and derivative values to smoothly navigate around the obstacles. This approach allows the robot to bypass obstacles in real-time, improving its mobility and efficiency in dynamically.
 
