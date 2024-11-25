@@ -169,6 +169,9 @@ Also the wheels have low coefficient of friction to avoid loss of energy, but fo
   ### EV3 P-Brick Energy distribution
   EV3 P-Brick have 4 ports for sensors and motors and all of them distributes and contributes most of the energy resources. While LEGO sensors contribute as much energy as they need by built-in control systems and framework abilities, varying between number of iteration per second, energy consumption and framework and IDE's abilities to proceed amount of data. Then the motors energy distribution is often regulated by control algorythms and values given in the programm, consequentlyleading to smart energy distribution to provide enough power and maintain accuratte readings without overloading.
   
+  ### Monitoring features and flexibilty
+  The LEGO EV3 power management system improves flexibility and efficiency through its convenient monitoring features and adaptable power options. The system supports multiple configurations, such as rechargeable lithium-ion batteries or standard AA batteries, providing a choice between them, also it is easier to change between batteries in LEGO because of real-time battery monitoring system that enables active energy management, providing alerts for low power and ensuring uninterrupted operation. This flexibility is further enhanced by integration with external power sources for extended runtime, while the monitoring features ensure optimal performance and safe components during tasks.
+  
   ### Comparison with other popular controllers
   
   <table>
