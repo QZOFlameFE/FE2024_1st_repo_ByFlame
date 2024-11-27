@@ -519,7 +519,7 @@ To park accurately, an ultrasonic sensor is used, when this sensor notices a par
 -->
 # Performance videos
 ### Open Challenge: https://www.youtube.com/watch?v=abwXTLdPtoA </br>
-### Obstacle Challenge: https://www.youtube.com/watch?v=in7TNcsKKQ0 </br>
+### Obstacle Challenge: https://youtu.be/TMfxzI9ZFoQ?si=zyM7kieHw5FU_5LX </br>
 ### Robot parts discussion: https://www.youtube.com/watch?v=4ONiXjtQosE </br>
 # <hr/>
 
