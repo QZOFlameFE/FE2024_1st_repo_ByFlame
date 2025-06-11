@@ -449,7 +449,7 @@ To park accurately, an ultrasonic sensor is used, when this sensor notices a par
   </td>
   <td width=50%>
     
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/view.png)
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlamestyle.jpeg)
     
   </td>
 </tr>
