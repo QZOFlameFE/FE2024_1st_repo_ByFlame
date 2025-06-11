@@ -456,36 +456,36 @@ To park accurately, an ultrasonic sensor is used, when this sensor notices a par
 <tr>
   <td width=50%>
     
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/forward.png)
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlamefront.jpeg)
     
   </td>
   <td width=50%>
     
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/right.png)
-    
-  </td>
-</tr>
-<tr>
-  <td width=50%>
-    
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/Back.png)
-    
-  </td>
-  <td width=50%>
-    
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/left.png)
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlameleft.jpeg)
     
   </td>
 </tr>
 <tr>
   <td width=50%>
     
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/top.png)
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlameback.jpeg)
     
   </td>
   <td width=50%>
     
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/down.png)
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlameright.jpeg)
+    
+  </td>
+</tr>
+<tr>
+  <td width=50%>
+    
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlametop.jpeg)
+    
+  </td>
+  <td width=50%>
+    
+  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZOFlamebottom.jpeg)
     
   </td>
 </tr>
