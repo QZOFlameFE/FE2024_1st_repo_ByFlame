@@ -365,7 +365,7 @@ Our robot aligns itself with the center of the road when it doesn't see an objec
 <tr>
 <th width=250>
   
-![Pixy camera](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Playfieldodometry.pdf)
+![Pixy camera](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Playfieldodometry-1.png)
 <p> 
 Full odometry
 </p>
