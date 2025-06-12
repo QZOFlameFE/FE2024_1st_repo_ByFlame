@@ -25,6 +25,7 @@ CONTENT
 </div>
 </div>
 <h2 align = center> Our team already participated in the last 2024 season and we won second place in FE category</h2>
+
 # Contents 
 * [**Mobility management**](#mobility-management)
   * [Chassis design and differential](#chassis-design-and-differential)
