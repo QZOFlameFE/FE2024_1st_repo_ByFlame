@@ -28,6 +28,7 @@ CONTENT
 <div align = center>
 <img src="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Team_photos/2024.jpeg"/>
 </div>
+
 # Contents 
 * [**Mobility management**](#mobility-management)
   * [Chassis design and differential](#chassis-design-and-differential)
