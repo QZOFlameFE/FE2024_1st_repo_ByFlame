@@ -360,28 +360,29 @@ We use steering mechanism and pixy2 coordinates and connect them with linear fun
 
 https://github.com/user-attachments/assets/eb8f1eea-5bec-42ee-9bcd-57115f89046b
 ### Align center (when pixy camera does not see road sign)
-Our robot aligns itself with the center of the road when it doesn't see an object, so as not to crash into parking spaces or miss a road sign. To center the robot, it uses odometry. The module x coordinate of the center of the road is equal to 100 (x is 100 or -100) because the robot uses full odometry (the center coordinate (0;0) is the center of the map) <br>
+Our robot aligns itself with the center of the road when it doesn't see an object, so as not to crash into parking spaces or miss a road sign. To center the robot, it uses odometry. The module x coordinate of the center of the road is equal to 25 (x is 25 or -25) because the robot uses segmented odometry (the center coordinate (0;0) is the center of the every straightforward section) <br>
 <table>
 <tr>
 <th width=250>
   
 ![Pixy camera](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Playfieldodometry_page-0001.jpg)
 <p> 
-Full odometry
+Segmented odometry
 </p>
 </th>
 </tr>
 </table>
 </div>
-It determines the error between the coordinate of the robot and the center of the road and is given to the steering mechanism so that it aligns itself to the center.
+It determines the error between the coordinate of the robot and the center of the road and is given to the steering mechanism so that it aligns itself to the center thanks to the constant formula.
 
 ## Parking position
 
-We use ultrasonic sensor for precise parking, but since we only have one ultrasonic, we will have to make a U-turn if the robot's direction is clockwise, so the parking process consists of 3 steps:
+We use ultrasonic sensor for precise parking and we already know where parking zone is, because it is located in the section where we started, but since we only have one ultrasonic and in the clockwise run ultrasonic will be pointed to the inner wall, we will have to make turn. Robot will drive till it sees orange line and will turn and align near to the outer walls, so the parking process consists of 3 steps:
 <ul>
-  <li>Make a turn</li>
-  <li>Search for a parking zone </li>
-  <li> park in the zone</li>
+  <li>drive till the orange</li>
+  <li>turning back and aligning </li>
+  <li> finding the exact location of the parking</li>
+  <li>parallel parking</li>
 </ul>
 <br>
 
