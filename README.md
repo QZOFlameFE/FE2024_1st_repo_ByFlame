@@ -390,10 +390,10 @@ We use ultrasonic sensor for precise parking and we already know where parking z
 our robot makes a turn if the robot moves clockwise so that the ultrasonic looks at the outer border
 
 ### Search for a parking zone
-Our robot should move parallel to the outer side until it sees the parking zone. To know where the parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. We record the value of the "turncount" (number of turns) when the pixy sees a parking zone. When the robot sees a parking zone, it approaches it, using a pixy camera.
+Our robot should move parallel and close to the outer side until it sees the parking zone. To be close to parking is we also use pixy2 relative coordinates and odometry to know the parking zone's position. Counter clockwise run includes backward movement and it stops and moves forward at orange line. Pixy allows robot to not go too far from parking section. Clockwise run includes forward movement and 180 degrees turn when it sees orange.
 
 ### park in the zone
-To park accurately, an ultrasonic sensor is used, when this sensor notices a parking wall, the robot stops and enters the parking zone.
+To park accurately, an ultrasonic sensor is used, when this sensor notices a parking wall, the robot stops and uses cycle of turning steering wheel right,left and moving back, forward on a short distance. 
 <br>
 <br>
 *Most tasks are performed using a pixy camera, here you can see how to set up this camera*
