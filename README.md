@@ -68,7 +68,7 @@ CONTENT
 <tr>
 <th width=250>
   
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/parking-situation.png) </br>
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/parallelparkingscheme.jpeg) </br>
 </th>
 </tr>
 </table>
