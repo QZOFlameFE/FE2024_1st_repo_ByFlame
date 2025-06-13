@@ -416,37 +416,37 @@ To park accurately, an ultrasonic sensor is used, when this sensor notices a par
 <tr>
   <th width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudiofront.jpeg)
   </th>
   <th width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_2.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudioleft.jpeg)
   </th>
 </tr>
 <tr>
   <td width=50%>
     
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_3.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudioright.jpeg)
   </td>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_4.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudioback.jpeg)
   </td>
 </tr>
 <tr>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_5.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudiobottom.jpeg)
   </td>
   <td width=50%>
 
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_6.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudiotop.jpeg)
   </td>
 </tr>
 <tr>
   <td width=50%>
   
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_7.bmp)
+![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/FEstudiostyle.jpeg)
   </td>
   <td width=50%>
     
