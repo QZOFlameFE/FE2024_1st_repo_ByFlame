@@ -77,36 +77,7 @@ CONTENT
 ### Chassis design and differential
 The base of our chassis design comes from Ackerman steering model geometry. It improves maintainabiity of the robot as it controls the smoothness of the turns because of the maximum degrees of the steering can move
 We have a differential in driving rear axle of our robot to make turns smoother. If robot turns one wheel will move slower than second and it reduces radius of the turn so our robot turn is controlled by 2 mechanisms: steering mechanism and differential.
-<table>
-<tr>
-<th width=250>
-
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/concepts/Ackermann_simple_design.png)
-</th>
-</tr>
-</table>
-
-<table>
-<tr>
-<th width=50% height=50%>
-  
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_8.bmp)
-  ![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_10.bmp)
-Our robot's steering control construction
-</th>
-<th width=50% height=100%>
-  
-![alt text](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Vehicle_photos/QZO_Flame_Building_Instructions_9.bmp)
-Our robot's differential at rear axle
-<br><br><br><br><br><br><br><br><br><br>
-(These photos were taken using the studio2.0 app)
-###### the studio application provides the ability to make a robot design with any parts from many sets
-
-</th>
-</tr>
-</table>
-
-
+<img src="https://raw.githubusercontent.com/QZOFlameFE/FE2024_1st_repo_ByFlame/main/concepts/Ackermann_simple_design.png" width="300" height="400" alt="Ackermann Design">
 ### Weight distribution
   As our robot is a self-driving car with steering mechanism and differential in rear axle we need to make our robot slight heavy, and distribute weight a bit behind the center of our robot to prevent the wheels from slipping. The slipping of the wheels in rear axle impacts our odometry and the programm.Also, we placed the EV3 P-Brick in the center of the robot to distribute the weight evenly, as the brick is a relatively heavy component(275g). Pixy camera is located quite behind the robot,that's why it don't maintain balance. To maintain balance, we used metal balls(you can see from instruction of our robot) from the Lego set and placed them in front of the robot. This way, we avoid the robot from wobbling.
   
@@ -369,7 +340,7 @@ Our robot aligns itself with the center of the road when it doesn't see an objec
 <tr>
 <th width=250>
   
-![Pixy camera](https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Playfieldodometry_page-0001.jpg)
+<img src="https://github.com/QZOFlameFE/FE2024_1st_repo_ByFlame/blob/main/Instructions/Power_and_Sense_Management/Playfieldodometry_page-0001.jpg?raw=true" width="400">
 <p> 
 Segmented odometry
 </p>
